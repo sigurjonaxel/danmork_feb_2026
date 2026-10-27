@@ -754,16 +754,16 @@
     "country": "Bílaleiga",
     "address": "Lufthavnsboulevarden 2, 2770 Kastrup (Shuttle frá T3)",
     "specs": [
-      "7.343 kr./dag (44.057 kr. alls)",
+      "4 dagar í Óðinsvéum: ~29.372 kr. (7.343 kr./dag)",
+      "6 dagar á CPH: 44.057 kr. alls",
       "Station / Estate (600–650L skott)",
-      "Fullkominn fyrir IKEA pakka & varning",
-      "Sixt / Europcar CPH"
+      "Sparar brúartolla & 2 daga leigu í Óðinsvéum"
     ],
     "rating": "4.8",
     "ratingLabel": "Toppval fyrir langkeyrslu & IKEA varning",
     "priceEur": 44057,
     "pricePerNightEur": 7343,
-    "priceFormatted": "7.343 kr./dag (44.057 kr. 6 dagar)",
+    "priceFormatted": "7.343 kr./dag (4 dagar í Óðinsvéum: 29.372 kr. · 6 dagar CPH: 44.057 kr.)",
     "photo": "img/cars/skoda_octavia.jpg",
     "url": "https://www.sixt.com/",
     "officialUrl": "https://www.europcar.com/",
@@ -772,9 +772,44 @@
     "availableWeeks": [
       "car"
     ],
-    "availabilitySummary": "CPH Kastrup (17.–23. feb, 6 dagar: 44.057 kr.) · Mjög stórt og djúpt skott (600–650L), auðvelt að fella niður aftursæti fyrir langa/flatpack pakka úr IKEA og lág eldsneytiseyðsla á hraðbrautum.",
+    "availabilitySummary": "Valmöguleiki 1: Taka bíl í Óðinsvéum 18.–22. feb (4 dagar: ~29.372 kr.) og skila fyrir síðustu nóttina · Valmöguleiki 2: Taka á Kastrup 17.–23. feb (6 dagar: 44.057 kr.). Djúpt skott (600–650L) sem tekur auðveldlega flatpack IKEA pakka og töskur.",
     "pricesByWeek": {
       "car": 44057
+    }
+  },
+  {
+    "id": "car_tesla_model_y",
+    "title": "⚡ Tesla Model Y Long Range (Hertz / Sixt / Europcar)",
+    "category": "car",
+    "legId": "car",
+    "isTopPick": true,
+    "propertyType": "Rafmagns SUV · Óðinsvé (4d) eða CPH (6d)",
+    "city": "Óðinsvé / Kastrup (CPH)",
+    "region": "🚗 Bílaleiga · 18.–22. feb (Óðinsvé) eða 17.–23. feb (CPH)",
+    "country": "Bílaleiga",
+    "address": "Bílaleiga í Óðinsvéum (við lestarstöðina) eða CPH Lufthavn",
+    "specs": [
+      "4 dagar í Óðinsvéum: ~42.424 kr. (10.606 kr./dag)",
+      "6 dagar á CPH: ~63.638 kr. alls",
+      "🧳 854L skott + 117L frunk (risavaxið rými)",
+      "⚡ Tesla Superchargers alls staðar á leiðinni"
+    ],
+    "rating": "4.9",
+    "ratingLabel": "Toppval í rafbílum · Risaskott & Supercharger",
+    "priceEur": 42424,
+    "pricePerNightEur": 10606,
+    "priceFormatted": "10.606 kr./dag (4 dagar í Óðinsvéum: 42.424 kr. · 6 dagar á CPH: 63.638 kr.)",
+    "photo": "img/cars/tesla_model_y.jpg",
+    "url": "https://www.hertz.com/",
+    "officialUrl": "https://www.sixt.com/",
+    "isBudgetFit": true,
+    "suggestedBy": "Gemini Bílaleiga (Tesla Tillaga)",
+    "availableWeeks": [
+      "car"
+    ],
+    "availabilitySummary": "Valmöguleiki 1: Taka bíl í Óðinsvéum 18.–22. feb (4 dagar: ~42.424 kr.) og skila fyrir síðustu nóttina í Óðinsvéum · Valmöguleiki 2: Taka á CPH 17.–23. feb (6 dagar: ~63.638 kr.). Gríðarlegt flutningsrými fyrir IKEA pakka (854 lítrar + flatir sætisbakkar), frábær aksturseiginleikar og hraðhleðslur alls staðar á Fjóni og Jótlandi.",
+    "pricesByWeek": {
+      "car": 42424
     }
   },
   {
@@ -788,16 +823,16 @@
     "country": "Bílaleiga",
     "address": "CPH Car Rental Centre, Lufthavnsboulevarden 2",
     "specs": [
-      "7.098 kr./dag (42.833 kr. alls)",
-      "Station / Estate",
+      "4 dagar í Óðinsvéum: ~28.392 kr. (7.098 kr./dag)",
+      "6 dagar á CPH: 42.833 kr. alls",
       "Hagkvæmasti skutbíllinn",
-      "Europcar CPH"
+      "Europcar Óðinsvé / CPH"
     ],
     "rating": "4.6",
     "ratingLabel": "Hagkvæmur skutbíll með góðu skotti",
     "priceEur": 42833,
     "pricePerNightEur": 7098,
-    "priceFormatted": "7.098 kr./dag (42.833 kr. 6 dagar)",
+    "priceFormatted": "7.098 kr./dag (4 dagar í Óðinsvéum: 28.392 kr. · 6 dagar CPH: 42.833 kr.)",
     "photo": "img/cars/ford_focus.jpg",
     "url": "https://www.europcar.com/",
     "officialUrl": "https://www.europcar.com/",
@@ -806,7 +841,7 @@
     "availableWeeks": [
       "car"
     ],
-    "availabilitySummary": "CPH Kastrup (17.–23. feb, 6 dagar: 42.833 kr.) · Ódýrasti station-bíllinn á Kastrup, rúmgott skott þegar aftursæti eru felld niður fyrir IKEA varning.",
+    "availabilitySummary": "Valmöguleiki 1: Taka bíl í Óðinsvéum 18.–22. feb (4 dagar: ~28.392 kr.) · Valmöguleiki 2: CPH 17.–23. feb (6 dagar: 42.833 kr.). Hagkvæmur skutbíll með góðu flutningsrými.",
     "pricesByWeek": {
       "car": 42833
     }
@@ -823,16 +858,16 @@
     "country": "Bílaleiga",
     "address": "Hertz Car Rental Centre, Lufthavnsboulevarden 2",
     "specs": [
-      "8.811 kr./dag (52.623 kr. alls)",
+      "4 dagar í Óðinsvéum: ~35.244 kr. (8.811 kr./dag)",
+      "6 dagar á CPH: 52.623 kr. alls",
       "SUV / Crossover (Há sætisstaða)",
-      "Þægilegt inn-/útstig & góð yfirsýn",
-      "Hertz CPH"
+      "Þægilegt inn-/útstig & góð yfirsýn"
     ],
     "rating": "4.8",
     "ratingLabel": "Þægilegasti ferðabíllinn í febrúarveðri",
     "priceEur": 52623,
     "pricePerNightEur": 8811,
-    "priceFormatted": "8.811 kr./dag (52.623 kr. 6 dagar)",
+    "priceFormatted": "8.811 kr./dag (4 dagar í Óðinsvéum: 35.244 kr. · 6 dagar CPH: 52.623 kr.)",
     "photo": "img/cars/nissan_qashqai.jpg",
     "url": "https://www.hertz.com/",
     "officialUrl": "https://www.hertz.com/",
@@ -841,7 +876,7 @@
     "availableWeeks": [
       "car"
     ],
-    "availabilitySummary": "CPH Kastrup (17.–23. feb, 6 dagar: 52.623 kr.) · Þægilegt að stíga inn og út, há sætisstaða, góð yfirsýn í akstri um Jótland og Fjón og rúmgott farangursrými.",
+    "availabilitySummary": "Valmöguleiki 1: Taka bíl í Óðinsvéum 18.–22. feb (4 dagar: ~35.244 kr.) · Valmöguleiki 2: CPH 17.–23. feb (6 dagar: 52.623 kr.). Há sætisstaða, þægilegt inn- og útstig og rúmgott farangursrými.",
     "pricesByWeek": {
       "car": 52623
     }
@@ -857,16 +892,16 @@
     "country": "Bílaleiga",
     "address": "Avis Car Rental Centre, Lufthavnsboulevarden 2",
     "specs": [
-      "9.546 kr./dag (57.274 kr. alls)",
+      "4 dagar í Óðinsvéum: ~38.184 kr. (9.546 kr./dag)",
+      "6 dagar á CPH: 57.274 kr. alls",
       "Stór SUV (allt að 2.000L með sætum niðri)",
-      "Avis CPH",
-      "Frábær á dönskum hraðbrautum"
+      "Avis Óðinsvé / CPH"
     ],
     "rating": "4.9",
     "ratingLabel": "Stór jepplingur með risaskotti",
     "priceEur": 57274,
     "pricePerNightEur": 9546,
-    "priceFormatted": "9.546 kr./dag (57.274 kr. 6 dagar)",
+    "priceFormatted": "9.546 kr./dag (4 dagar í Óðinsvéum: 38.184 kr. · 6 dagar CPH: 57.274 kr.)",
     "photo": "img/cars/skoda_kodiaq.jpg",
     "url": "https://www.avis.com/",
     "officialUrl": "https://www.avis.com/",
@@ -875,7 +910,7 @@
     "availableWeeks": [
       "car"
     ],
-    "availabilitySummary": "CPH Kastrup (17.–23. feb, 6 dagar: 57.274 kr.) · Stór SUV þar sem bæði 2. og 3. sætaröð leggjast flatar svo úr verður risavaxið flutningsrými fyrir varning.",
+    "availabilitySummary": "Valmöguleiki 1: Taka bíl í Óðinsvéum 18.–22. feb (4 dagar: ~38.184 kr.) · Valmöguleiki 2: CPH 17.–23. feb (6 dagar: 57.274 kr.). Risastór jepplingur með gríðarlegu flutningsplássi.",
     "pricesByWeek": {
       "car": 57274
     }
@@ -891,16 +926,16 @@
     "country": "Bílaleiga",
     "address": "Budget Car Rental Centre, Lufthavnsboulevarden 2",
     "specs": [
-      "10.402 kr./dag (62.414 kr. alls)",
+      "4 dagar í Óðinsvéum: ~41.608 kr. (10.402 kr./dag)",
+      "6 dagar á CPH: 62.414 kr. alls",
       "Fjölnotabíll / MPV",
-      "Hámarkspláss fyrir IKEA flatpack kassa",
-      "Budget CPH"
+      "Hámarkspláss fyrir IKEA kassa"
     ],
     "rating": "4.7",
     "ratingLabel": "Hátt til lofts og flatt gólf",
     "priceEur": 62414,
     "pricePerNightEur": 10402,
-    "priceFormatted": "10.402 kr./dag (62.414 kr. 6 dagar)",
+    "priceFormatted": "10.402 kr./dag (4 dagar í Óðinsvéum: 41.608 kr. · 6 dagar CPH: 62.414 kr.)",
     "photo": "img/cars/vw_touran.jpg",
     "url": "https://www.budget.com/",
     "officialUrl": "https://www.budget.com/",
@@ -909,7 +944,7 @@
     "availableWeeks": [
       "car"
     ],
-    "availabilitySummary": "CPH Kastrup (17.–23. feb, 6 dagar: 62.414 kr.) · Hámarkspláss fyrir flatpack kassa úr IKEA og mikinn farangur milli Óðinsvéa, Ribe og Álaborgar.",
+    "availabilitySummary": "Valmöguleiki 1: Taka bíl í Óðinsvéum 18.–22. feb (4 dagar: ~41.608 kr.) · Valmöguleiki 2: CPH 17.–23. feb (6 dagar: 62.414 kr.). Hátt til lofts og flatt gólf fyrir stóra kassa úr IKEA.",
     "pricesByWeek": {
       "car": 62414
     }
@@ -925,16 +960,16 @@
     "country": "Bílaleiga",
     "address": "Sixt Car Rental Centre, Lufthavnsboulevarden 2",
     "specs": [
-      "11.993 kr./dag (71.959 kr. alls)",
+      "4 dagar í Óðinsvéum: ~47.972 kr. (11.993 kr./dag)",
+      "6 dagar á CPH: 71.959 kr. alls",
       "Stór Minivan / Caddy Maxi",
-      "Tekur stór húsgögn & kassa án vandræða",
-      "Sixt CPH"
+      "Fyrir stærri búslóða-/IKEA flutninga"
     ],
     "rating": "4.6",
     "ratingLabel": "Fyrir stærri búslóða-/IKEA flutninga",
     "priceEur": 71959,
     "pricePerNightEur": 11993,
-    "priceFormatted": "11.993 kr./dag (71.959 kr. 6 dagar)",
+    "priceFormatted": "11.993 kr./dag (4 dagar í Óðinsvéum: 47.972 kr. · 6 dagar CPH: 71.959 kr.)",
     "photo": "img/cars/vw_caddy.jpg",
     "url": "https://www.sixt.com/",
     "officialUrl": "https://www.sixt.com/",
@@ -943,7 +978,7 @@
     "availableWeeks": [
       "car"
     ],
-    "availabilitySummary": "CPH Kastrup (17.–23. feb, 6 dagar: 71.959 kr.) · Fyrir hámarks flutningsgetu ef keyptir eru margir stórir og langir kassar í IKEA.",
+    "availabilitySummary": "Valmöguleiki 1: Taka bíl í Óðinsvéum 18.–22. feb (4 dagar: ~47.972 kr.) · Valmöguleiki 2: CPH 17.–23. feb (6 dagar: 71.959 kr.). Hámarksflutningsgeta fyrir mjög langa og stóra kassa.",
     "pricesByWeek": {
       "car": 71959
     }

@@ -4,7 +4,9 @@ Skipulags- og bókunarvefur fyrir 7 daga ferð **Sigurjóns Axels (Sissa)** og *
 
 - **Ferðalangar**: Sigurjón Axel (Sissi) & Ólafía Rósbjörg (Lóa)
 - **Flug**: KEF ➔ CPH (FI 204 kl. 07:45 eða FI 212 kl. 16:25) þann 17. feb · CPH ➔ KEF (FI 205 kl. 14:00) þann 23. feb
-- **Akstursleið (~935 km alls)**: Kastrup (CPH) ➔ **Óðinsvé** (2 nætur) ➔ **Ribe** (1 nótt) ➔ **Álaborg** (2 nætur) ➔ **Óðinsvé** (1 nótt) ➔ Kastrup (CPH)
+- **Ferðamáti & Leið**:
+  - **Valmöguleiki A (Bíll allan tímann á CPH)**: Leigja bíl á CPH í 6 daga (~935 km heildarakstur).
+  - **Valmöguleiki B (Lest + Bíll í Óðinsvéum · Sparivalkostur)**: Taka beina DSB lest milli CPH og Óðinsvéa (1 klst. 15–20 mín), leigja bíl í Óðinsvéum í **4 daga (18.–22. feb)**, skila bílnum í Óðinsvéum fyrir síðustu nóttina og taka lestina aftur á CPH! Sparar 2 leigudaga, 2x brúartolla yfir Stórabelti (~11.000 kr.) og öll bílastæðagjöld í Óðinsvéum.
 - **Hotels.com listi**: [Skoða vistaðan lista á is.hotels.com (Trips)](https://is.hotels.com/trips/egti-5LQ-58W-B1BF?source=tripList)
 
 ---
@@ -20,16 +22,17 @@ Skipulags- og bókunarvefur fyrir 7 daga ferð **Sigurjóns Axels (Sissa)** og *
 
 ---
 
-## 🚗 Raunverulegir bílaleigubílar á Kastrup (CPH · 17. – 23. feb · 6 dagar)
+## 🚗 Bílaleigubílar (Valmöguleiki A: 6 dagar á CPH · Valmöguleiki B: 4 dagar í Óðinsvéum)
 
-| Bílategund | Bílaleiga | Mynd | Kostir fyrir ferðina | Verð á dag | Samtals (6 dagar) |
+| Bílategund | Bílaleiga | Mynd | Kostir fyrir ferðina | 4 dagar í Óðinsvéum *(Mælt með)* | 6 dagar á Kastrup (CPH) |
 | :--- | :--- | :---: | :--- | :---: | :---: |
-| **Skoda Octavia Combi / VW Passat Estate** ⭐ *Topp val* | Sixt / Europcar CPH | `img/cars/skoda_octavia.jpg` | **600–650L skott** fyrir IKEA varning + 2 stórar töskur, hiti í sætum, Adaptive Cruise Control | 7.343 kr. | **44.057 kr.** |
-| **Ford Focus Estate / Opel Astra ST** | Europcar CPH | `img/cars/ford_focus.jpg` | Hagkvæmasti skutbíllinn með góðu skotti | 7.098 kr. | **42.833 kr.** |
-| **Nissan Qashqai / VW Tiguan Hybrid (SUV)** | Hertz CPH | `img/cars/nissan_qashqai.jpg` | Há sætisstaða, þægilegt inn/útstig, frábær yfirsýn | 8.811 kr. | **52.623 kr.** |
-| **Skoda Kodiaq 7-Seater / Tiguan Allspace** | Avis CPH | `img/cars/skoda_kodiaq.jpg` | Risastór SUV, allt að 2.000L flutningsrými með sætum niðri | 9.546 kr. | **57.274 kr.** |
-| **VW Touran / Ford S-Max (MPV)** | Budget CPH | `img/cars/vw_touran.jpg` | Hátt til lofts, flatt gólf, hámarkspláss fyrir flatpack kassa | 10.402 kr. | **62.414 kr.** |
-| **VW Caddy Maxi / Ford Transit Custom** | Sixt CPH | `img/cars/vw_caddy.jpg` | Fyrir stærri húsgagnaflutninga úr IKEA | 11.993 kr. | **71.959 kr.** |
+| **⚡ Tesla Model Y Long Range** ⭐ | Hertz / Sixt / Europcar | `img/cars/tesla_model_y.jpg` | **854L risaskott + 117L frunk**, flatir sætisbakkar fyrir stóra IKEA kassa, Superchargers á leiðinni | **~42.424 kr.** | **~63.638 kr.** |
+| **Skoda Octavia Combi / VW Passat** ⭐ | Sixt / Europcar | `img/cars/skoda_octavia.jpg` | **600–650L skott** fyrir IKEA varning + 2 stórar töskur, lág eyðsla | **~29.372 kr.** | **44.057 kr.** |
+| **Ford Focus Estate / Opel Astra ST** | Europcar | `img/cars/ford_focus.jpg` | Hagkvæmasti skutbíllinn með góðu skotti | **~28.392 kr.** | **42.833 kr.** |
+| **Nissan Qashqai / VW Tiguan Hybrid** | Hertz | `img/cars/nissan_qashqai.jpg` | Há sætisstaða, þægilegt inn/útstig, frábær yfirsýn | **~35.244 kr.** | **52.623 kr.** |
+| **Skoda Kodiaq 7-Seater / Tiguan Allspace** | Avis | `img/cars/skoda_kodiaq.jpg` | Risastór SUV, allt að 2.000L flutningsrými með sætum niðri | **~38.184 kr.** | **57.274 kr.** |
+| **VW Touran / Ford S-Max (MPV)** | Budget | `img/cars/vw_touran.jpg` | Hátt til lofts, flatt gólf, hámarkspláss fyrir flatpack kassa | **~41.608 kr.** | **62.414 kr.** |
+| **VW Caddy Maxi / Transit Custom** | Sixt | `img/cars/vw_caddy.jpg` | Fyrir stærri húsgagnaflutninga úr IKEA | **~47.972 kr.** | **71.959 kr.** |
 
 ---
 
@@ -37,5 +40,6 @@ Skipulags- og bókunarvefur fyrir 7 daga ferð **Sigurjóns Axels (Sissa)** og *
 
 - [`index.html`](file:///home/sigurjonaxel/repos/github/danmork_feb_2026/index.html): Aðalviðmót ferðarinnar á GitHub Pages með beinum bókunartenglum, dagskrá og dulkóðuðu kosningakerfi.
 - [`houses.json`](file:///home/sigurjonaxel/repos/github/danmork_feb_2026/houses.json): Gögn fyrir öll hótelin og bílaleigubílana með beinum tenglum á sérhvert hótel á Hotels.com.
-- [`img/cars/`](file:///home/sigurjonaxel/repos/github/danmork_feb_2026/img/cars/): Raunverulegar myndir af hverri bílategund.
+- [`img/cars/`](file:///home/sigurjonaxel/repos/github/danmork_feb_2026/img/cars/): Raunverulegar myndir af bílunum (þ.m.t. Tesla Model Y, Skoda Octavia Combi o.fl.).
+- [`img/storebaelt.jpg`](file:///home/sigurjonaxel/repos/github/danmork_feb_2026/img/storebaelt.jpg): Raunmynd af Stórabeltisbrúnni í aðalborða.
 - [`build_encrypted_pages.py`](file:///home/sigurjonaxel/repos/github/danmork_feb_2026/build_encrypted_pages.py): Dulkóðar gögnin fyrir GitHub Pages (PIN: 2027).
