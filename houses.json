@@ -1,5 +1,42 @@
 [
   {
+    "id": "hotel_knudsens_gaard_odense",
+    "title": "Hotel Knudsens Gaard (Félagaverð & Ókeypis bílastæði)",
+    "category": "hotel",
+    "legId": "leg1",
+    "isTopPick": true,
+    "propertyType": "Sögufrægt sveitahótel í Óðinsvéum (Legg 1 & 4)",
+    "city": "Óðinsvé (Odense)",
+    "region": "🏨 Óðinsvé · 17.–19. feb (2 nætur)",
+    "country": "Óðinsvé",
+    "address": "Hunderupgade 2, 5230 Odense M",
+    "specs": [
+      "14.694 kr./nótt (Félagaverð)",
+      "29.388 kr. alls (2 nætur m/ sköttum)",
+      "Fyrra verð: 32.652 kr. (10% afsláttur)",
+      "🅿️ Ókeypis bílastæði · ⭐ 8,8 / 10"
+    ],
+    "rating": "4.5",
+    "ratingLabel": "8,8 / 10 (Frábært · 1.005 umsagnir á Hotels.com)",
+    "priceEur": 29388,
+    "pricePerNightEur": 14694,
+    "priceFormatted": "14.694 kr./nótt (29.388 kr. alls m/ félagaafslætti)",
+    "photo": "https://images.trvl-media.com/lodging/1000000/30000/22300/22263/fbb09fb3.jpg?impolicy=fcrop&w=1200&h=800",
+    "url": "https://is.hotels.com/ho354925/hotel-knudsens-gaard-odense-danmork/?chkin=2027-02-17&chkout=2027-02-19&rm1=a2&regionId=2638",
+    "officialUrl": "https://knudsensgaard.dk/",
+    "isBudgetFit": true,
+    "suggestedBy": "Hotels.com (Félagaverð)",
+    "availableWeeks": [
+      "leg1",
+      "leg4"
+    ],
+    "availabilitySummary": "Félagaverð á is.hotels.com (10% afsláttur, m/ sköttum): 14.694 kr./nótt (29.388 kr. alls fyrir 2 nætur; fyrra verð 32.652 kr.). Friðsæll og fallegur sögulegur bær með ókeypis einkabílastæði og toppeinkunn 8,8/10.",
+    "pricesByWeek": {
+      "leg1": 29388,
+      "leg4": 14694
+    }
+  },
+  {
     "id": "hotel_comwell_odense_1",
     "title": "Comwell H. C. Andersen Odense Dolce by Wyndham",
     "category": "hotel",
@@ -12,8 +49,8 @@
     "address": "Claus Bergs Gade 7, 5000 Odense C",
     "specs": [
       "21.032 kr./nótt (Standard)",
-      "42.064 kr. alls (m/ sköttum)",
-      "Morgunverður +3.867 kr./nótt",
+      "42.064 kr. alls (2 nætur m/ sköttum)",
+      "Deluxe 26.687 kr./nótt · Superior 30.098 kr.",
       "⭐ 8,8 / 10 á Hotels.com"
     ],
     "rating": "4.4",
@@ -38,7 +75,7 @@
   },
   {
     "id": "hotel_city_odense",
-    "title": "City Hotel Nattergalen (Ókeypis bílastæði)",
+    "title": "City Hotel Nattergalen (Félagaverð & Ókeypis bílastæði)",
     "category": "hotel",
     "legId": "leg1",
     "isTopPick": true,
@@ -48,26 +85,26 @@
     "country": "Óðinsvé",
     "address": "Hans Tausens Gade 19, 5000 Odense C",
     "specs": [
-      "15.702 kr./nótt",
-      "31.403 kr. alls (m/ sköttum)",
-      "🅿️ Ókeypis bílastæði",
-      "Við H.C. Andersen safnið"
+      "15.702 kr./nótt (Félagaverð)",
+      "31.403 kr. alls (2 nætur m/ sköttum)",
+      "🅿️ Ókeypis bílastæði & morgunverður",
+      "Við H.C. Andersen safnið · ⭐ 8,6/10"
     ],
-    "rating": "4.1",
-    "ratingLabel": "8,2 / 10 á Hotels.com",
+    "rating": "4.3",
+    "ratingLabel": "8,6 / 10 á Hotels.com (1.006 umsagnir)",
     "priceEur": 31403,
     "pricePerNightEur": 15702,
     "priceFormatted": "15.702 kr./nótt (31.403 kr. alls m/ sköttum)",
-    "photo": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=900&auto=format&fit=crop&q=80",
+    "photo": "https://images.trvl-media.com/lodging/1000000/670000/660100/660087/32056a85.jpg?impolicy=fcrop&w=1200&h=800",
     "url": "https://is.hotels.com/ho329431/city-hotel-nattergalen-odense-danmork/?chkin=2027-02-17&chkout=2027-02-19&rm1=a2&regionId=2638",
     "officialUrl": "https://cityhotelodense.dk/",
     "isBudgetFit": true,
-    "suggestedBy": "Hotels.com (Opið í flipa hjá þér)",
+    "suggestedBy": "Hotels.com (Félagaverð)",
     "availableWeeks": [
       "leg1",
       "leg4"
     ],
-    "availabilitySummary": "Raunverð á is.hotels.com (með sköttum og gjöldum): 15.702 kr./nótt (31.403 kr. fyrir 2 nætur 17.–19. feb). Staðsett í hjarta Óðinsvéa með ókeypis bílastæði og þakverönd.",
+    "availabilitySummary": "Félagaverð á is.hotels.com (með sköttum og gjöldum): 15.702 kr./nótt (31.403 kr. fyrir 2 nætur 17.–19. feb). Staðsett í hjarta Óðinsvéa með ókeypis bílastæði, morgunverði og þakverönd.",
     "pricesByWeek": {
       "leg1": 31403,
       "leg4": 15702
@@ -75,7 +112,7 @@
   },
   {
     "id": "hotel_amalie_bb_odense",
-    "title": "Amalie Bed and Breakfast & Apartments (Ókeypis bílastæði)",
+    "title": "Amalie Bed and Breakfast & Apartments (20% afsláttur)",
     "category": "hotel",
     "legId": "leg1",
     "isTopPick": true,
@@ -85,26 +122,26 @@
     "country": "Óðinsvé",
     "address": "Rugaardsvej 23, 5000 Odense C",
     "specs": [
-      "10.946 kr./nótt",
-      "21.892 kr. alls (m/ sköttum)",
-      "🅿️ Ókeypis bílastæði",
-      "Mjög hagkvæmt á Hotels.com"
+      "10.946 kr./nótt (Félagaverð 20% afsláttur)",
+      "21.892 kr. alls (fyrra verð 27.364 kr.)",
+      "🅿️ Ókeypis bílastæði · Einkagisting",
+      "⭐ 9,0 / 10 á Hotels.com"
     ],
-    "rating": "4.4",
-    "ratingLabel": "8,8 / 10 á Hotels.com",
+    "rating": "4.6",
+    "ratingLabel": "9,0 / 10 á Hotels.com (244 umsagnir)",
     "priceEur": 21892,
     "pricePerNightEur": 10946,
-    "priceFormatted": "10.946 kr./nótt (21.892 kr. alls m/ sköttum)",
-    "photo": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=900&auto=format&fit=crop&q=80",
+    "priceFormatted": "10.946 kr./nótt (21.892 kr. alls m/ félagaafslætti)",
+    "photo": "https://images.trvl-media.com/lodging/11000000/10130000/10121100/10121034/9e42e147.jpg?impolicy=fcrop&w=1200&h=800",
     "url": "https://is.hotels.com/ho498317/amalie-bed-and-breakfast-apartments-odense-danmork/?chkin=2027-02-17&chkout=2027-02-19&rm1=a2&regionId=2638",
     "officialUrl": "https://www.amaliebb.dk/",
     "isBudgetFit": true,
-    "suggestedBy": "Hotels.com (Opið í flipa hjá þér)",
+    "suggestedBy": "Hotels.com (Félagaverð)",
     "availableWeeks": [
       "leg1",
       "leg4"
     ],
-    "availabilitySummary": "Raunverð á is.hotels.com (með sköttum og gjöldum): 10.946 kr./nótt (21.892 kr. fyrir 2 nætur 17.–19. feb). Ókeypis einkabílastæði við húsið og stutt ganga í miðbæ Óðinsvéa.",
+    "availabilitySummary": "Félagaverð með 20% afslætti á is.hotels.com (með sköttum og gjöldum): 10.946 kr./nótt (21.892 kr. alls fyrir 2 nætur 17.–19. feb; fyrra verð 27.364 kr.). Ókeypis einkabílastæði og stutt ganga í miðbæinn.",
     "pricesByWeek": {
       "leg1": 21892,
       "leg4": 10946
@@ -122,167 +159,167 @@
     "country": "Óðinsvé",
     "address": "Odeons Kvarter 11, 5000 Odense C",
     "specs": [
-      "25.900 kr./nótt (m/ sköttum)",
-      "51.800 kr. (2 nætur)",
-      "Odeons Kvarter 11",
-      "Lúxus & bílakjallari undir hóteli"
+      "24.735 kr./nótt (Félagaverð)",
+      "49.470 kr. alls (fyrra verð 53.192 kr.)",
+      "Morgunverður innifalinn",
+      "⭐ 8,8 / 10 · Lúxus & bílakjallari"
     ],
-    "rating": "4.6",
-    "ratingLabel": "9,2 / 10 á Hotels.com",
-    "priceEur": 51800,
-    "pricePerNightEur": 25900,
-    "priceFormatted": "25.900 kr./nótt (51.800 kr. alls m/ sköttum)",
+    "rating": "4.5",
+    "ratingLabel": "8,8 / 10 á Hotels.com (1.392 umsagnir)",
+    "priceEur": 49470,
+    "pricePerNightEur": 24735,
+    "priceFormatted": "24.735 kr./nótt (49.470 kr. alls m/ félagaafslætti)",
     "photo": "https://images.trvl-media.com/lodging/24000000/23490000/23486100/23486015/276bf6f9.jpg?impolicy=fcrop&w=1200&h=800",
     "url": "https://is.hotels.com/ho752552480/hotel-odeon-odense-danmork/?chkin=2027-02-17&chkout=2027-02-19&rm1=a2&regionId=2638",
     "officialUrl": "https://hotelodeon.dk/",
     "isBudgetFit": false,
-    "suggestedBy": "Hotels.com (Vistað í Trips hjá þér)",
+    "suggestedBy": "Hotels.com Trips (Félagaverð)",
     "availableWeeks": [
       "leg1",
       "leg4"
     ],
-    "availabilitySummary": "Vistað í Hotels.com ferðalistanum þínum (is.hotels.com/trips/egti-5LQ-58W-B1BF) · Eitt glæsilegasta hótel Óðinsvéa í H.C. Andersen hverfinu (við hlið Comwell) með frábærum lífrænum morgunverði og stórum bílakjallara.",
+    "availabilitySummary": "Vistað í Hotels.com ferðalistanum þínum (is.hotels.com/trips/egti-5LQ-58W-B1BF) · Félagaverð 24.735 kr./nótt (49.470 kr. fyrir 2 nætur; fyrra verð 53.192 kr.). Eitt glæsilegasta hótel Óðinsvéa við H.C. Andersen hverfið með lífrænum morgunverði og bílakjallara.",
     "pricesByWeek": {
-      "leg1": 51800,
-      "leg4": 25900
+      "leg1": 49470,
+      "leg4": 24735
     }
   },
   {
     "id": "hotel_first_grand_odense",
-    "title": "Milling Hotel Windsor / First Hotel Grand Odense",
+    "title": "Milling Hotel Windsor Odense",
     "category": "hotel",
     "legId": "leg1",
     "propertyType": "Hótel í miðbæ Óðinsvéa (Legg 1 & 4)",
     "city": "Óðinsvé (Odense)",
     "region": "🏨 Óðinsvé · 17.–19. feb (2 nætur)",
     "country": "Óðinsvé",
-    "address": "Vindegade 45 / Jernbanegade 18, 5000 Odense C",
+    "address": "Vindegade 45, 5000 Odense C",
     "specs": [
-      "19.450 kr./nótt (m/ sköttum)",
-      "38.900 kr. (2 nætur)",
+      "14.694 kr./nótt (Félagaverð 10% afsláttur)",
+      "29.388 kr. alls (fyrra verð 32.652 kr.)",
       "Morgunverður & síðdegiskaffi innifalið",
-      "Klassískt í miðbænum"
+      "⭐ 8,4 / 10 á Hotels.com"
     ],
     "rating": "4.2",
     "ratingLabel": "8,4 / 10 á Hotels.com",
-    "priceEur": 38900,
-    "pricePerNightEur": 19450,
-    "priceFormatted": "19.450 kr./nótt (38.900 kr. alls m/ sköttum)",
+    "priceEur": 29388,
+    "pricePerNightEur": 14694,
+    "priceFormatted": "14.694 kr./nótt (29.388 kr. alls m/ félagaafslætti)",
     "photo": "https://images.trvl-media.com/lodging/1000000/30000/21200/21154/3f6a7c2a.jpg?impolicy=fcrop&w=1200&h=800",
-    "url": "https://is.hotels.com/Hotel-Search?destination=Milling%20Hotel%20Odense&startDate=2027-02-17&endDate=2027-02-19&adults=2",
-    "officialUrl": "https://millinghotels.dk/",
+    "url": "https://is.hotels.com/ho109283/milling-hotel-windsor-odense-danmork/?chkin=2027-02-17&chkout=2027-02-19&rm1=a2&regionId=2638",
+    "officialUrl": "https://millinghotels.dk/hoteller/milling-hotel-windsor/",
     "isBudgetFit": true,
-    "suggestedBy": "Hotels.com",
+    "suggestedBy": "Hotels.com (Félagaverð)",
     "availableWeeks": [
       "leg1",
       "leg4"
     ],
-    "availabilitySummary": "Milling hótelin í Óðinsvéum (Windsor, Plaza, Ansgar, Mini 11 & Mini 19) bjóða morgunverð og léttar veitingar innifaldar og eru í göngufæri við allt í miðbænum.",
+    "availabilitySummary": "Félagaverð á is.hotels.com (10% afsláttur, m/ sköttum): 14.694 kr./nótt (29.388 kr. fyrir 2 nætur; fyrra verð 32.652 kr.). Klassískt hótel í miðbænum með morgunverði, vöfflum og síðdegiskaffi inniföldu.",
     "pricesByWeek": {
-      "leg1": 38900,
-      "leg4": 19450
-    }
-  },
-  {
-    "id": "hotel_dagmar_ribe",
-    "title": "Hotel Dagmar – Elsta hótel Danmerkur (frá 1581)",
-    "category": "hotel",
-    "legId": "leg2",
-    "isTopPick": true,
-    "propertyType": "Sögufrægt hótel í Rípe (Legg 2 · 1 nótt)",
-    "city": "Rípe (Ribe)",
-    "region": "🏰 Rípe · 19.–20. feb (1 nótt)",
-    "country": "Rípe",
-    "address": "Torvet 1, 6760 Ribe",
-    "specs": [
-      "23.900 kr./nótt (m/ sköttum)",
-      "Torvet 1 (beint við dómkirkjuna)",
-      "Byggt 1581 · Rómantískt",
-      "⭐ 8,6 / 10 á Hotels.com"
-    ],
-    "rating": "4.3",
-    "ratingLabel": "8,6 / 10 á Hotels.com",
-    "priceEur": 23900,
-    "pricePerNightEur": 23900,
-    "priceFormatted": "23.900 kr./nótt (m/ sköttum)",
-    "photo": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=900&auto=format&fit=crop&q=80",
-    "url": "https://is.hotels.com/Hotel-Search?destination=Hotel%20Dagmar%20Ribe&startDate=2027-02-19&endDate=2027-02-20&adults=2",
-    "officialUrl": "https://www.hoteldagmar.dk/",
-    "isBudgetFit": true,
-    "suggestedBy": "Hotels.com & Gemini",
-    "availableWeeks": [
-      "leg2"
-    ],
-    "availabilitySummary": "Leggur 2 (Fös 19. – Lau 20. feb, 1 nótt: ~23.900 kr. m/ sköttum á Hotels.com; var 17.500 kr. án skatta í Gemini skjali) · Elsta og frægasta hótel Danmerkur beint á aðaltorginu gegnt Ribe Domkirke.",
-    "pricesByWeek": {
-      "leg2": 23900
+      "leg1": 29388,
+      "leg4": 14694
     }
   },
   {
     "id": "hotel_weis_stue_ribe",
-    "title": "Den Gamle Arrest / Weis Stue",
+    "title": "Den Gamle Arrest / Weis Stue Heimagisting (Ribe)",
     "category": "hotel",
     "legId": "leg2",
     "isTopPick": true,
-    "propertyType": "Söguleg gisting í Rípe (Legg 2 · 1 nótt)",
-    "city": "Rípe (Ribe)",
-    "region": "🏰 Rípe · 19.–20. feb (1 nótt)",
-    "country": "Rípe",
+    "propertyType": "Söguleg heimagisting & gistiheimili í Ribe (Legg 2 · 1 nótt)",
+    "city": "Ribe",
+    "region": "🏰 Ribe · 19.–20. feb (1 nótt)",
+    "country": "Ribe",
     "address": "Torvet 2, 6760 Ribe",
     "specs": [
-      "14.900 kr./nótt (m/ sköttum)",
-      "Torvet 2 (við Dómkirkjutorgið)",
-      "Einstök upplifun í miðbæ Rípe",
-      "⭐ 8,8 / 10 á Hotels.com"
+      "14.900 kr./nótt (Heimagisting)",
+      "Torvet 2 (við Dómkirkjutorgið í Ribe)",
+      "Söguleg & einstök heimagisting",
+      "⭐ 8,8 / 10 · Göngufjarlægð í allt"
     ],
     "rating": "4.4",
-    "ratingLabel": "8,8 / 10 á Hotels.com",
+    "ratingLabel": "8,8 / 10 (Söguleg heimagisting)",
     "priceEur": 14900,
     "pricePerNightEur": 14900,
     "priceFormatted": "14.900 kr./nótt (m/ sköttum)",
-    "photo": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=900&auto=format&fit=crop&q=80",
-    "url": "https://is.hotels.com/Hotel-Search?destination=Ribe%2C%20Denmark&startDate=2027-02-19&endDate=2027-02-20&adults=2",
+    "photo": "https://impro.usercontent.one/appid/oneComWsb/domain/dengamlearrest.dk/media/dengamlearrest.dk/onewebmedia/Den%20Gamle%20Arrest%20i%20Ribe_Hotel%20Ribe_Overnatning%20i%20ribe.jpg",
+    "url": "https://dengamlearrest.dk/",
     "officialUrl": "https://weis-stue.dk/",
     "isBudgetFit": true,
-    "suggestedBy": "Hotels.com & Gemini",
+    "suggestedBy": "Ribe Heimagisting & Bókun",
     "availableWeeks": [
       "leg2"
     ],
-    "availabilitySummary": "Leggur 2 (Fös 19. – Lau 20. feb, 1 nótt: ~14.900 kr. m/ sköttum) · Einstaklega sjarmerandi og sögufrægur gististaður beint á torginu í Rípe.",
+    "availabilitySummary": "Leggur 2 (Fös 19. – Lau 20. feb, 1 nótt: ~14.900 kr.) · Frábær söguleg heimagisting og gistiheimili beint á dómkirkjutorginu í Ribe. Notaleg herbergi í gömlu friðuðu húsi.",
     "pricesByWeek": {
       "leg2": 14900
     }
   },
   {
-    "id": "hotel_ribe_city",
-    "title": "Hotel Ribe",
+    "id": "danhostel_byferie_ribe",
+    "title": "Danhostel Ribe / Ribe Byferie Heimagisting",
     "category": "hotel",
     "legId": "leg2",
-    "propertyType": "Hótel í Rípe (Legg 2 · 1 nótt)",
-    "city": "Rípe (Ribe)",
-    "region": "🏰 Rípe · 19.–20. feb (1 nótt)",
-    "country": "Rípe",
+    "isTopPick": true,
+    "propertyType": "Heimagisting & Íbúðir í Ribe (Legg 2 · 1 nótt)",
+    "city": "Ribe",
+    "region": "🏰 Ribe · 19.–20. feb (1 nótt)",
+    "country": "Ribe",
+    "address": "Sankt Peders Gade 16 / Dagmarsgade 30, 6760 Ribe",
+    "specs": [
+      "13.900 kr./nótt (Íbúð/heimagisting)",
+      "Sérinngangur, eldhús & stofa",
+      "🅿️ Ókeypis bílastæði við hús",
+      "Útsýni yfir Ribe dómkirkju & ána"
+    ],
+    "rating": "4.5",
+    "ratingLabel": "9,0 / 10 (Topp heimagisting í Ribe)",
+    "priceEur": 13900,
+    "pricePerNightEur": 13900,
+    "priceFormatted": "13.900 kr./nótt (m/ sköttum)",
+    "photo": "https://danhostel-ribe.dk/wp-content/uploads/2021/04/danhostel-ribe-drone-2020-04.jpg",
+    "url": "https://danhostel-ribe.dk/",
+    "officialUrl": "https://www.ribe-byferie.dk/",
+    "isBudgetFit": true,
+    "suggestedBy": "Ribe Heimagisting",
+    "availableWeeks": [
+      "leg2"
+    ],
+    "availabilitySummary": "Leggur 2 (Fös 19. – Lau 20. feb, 1 nótt: ~13.900 kr.) · Tilvalið fyrir heimagistingu: Séríbúð eða einkaherbergi með eldhúsaðstöðu, ókeypis bílastæði og göngubrú beint yfir ána inn í miðbæ Ribe.",
+    "pricesByWeek": {
+      "leg2": 13900
+    }
+  },
+  {
+    "id": "hotel_ribe_city",
+    "title": "Hotel & Gisting Ribe",
+    "category": "hotel",
+    "legId": "leg2",
+    "propertyType": "Gistihús & Hótel í Ribe (Legg 2 · 1 nótt)",
+    "city": "Ribe",
+    "region": "🏰 Ribe · 19.–20. feb (1 nótt)",
+    "country": "Ribe",
     "address": "Sønderportsgade 22, 6760 Ribe",
     "specs": [
       "13.500 kr./nótt (m/ sköttum)",
       "Sønderportsgade 22, Ribe",
-      "Hagkvæmt & notalegt",
-      "Stutt í miðbæinn"
+      "Hagkvæmt & notalegt í gamla bænum",
+      "Stutt í allt miðsvæðis"
     ],
     "rating": "4.0",
-    "ratingLabel": "8,0 / 10 á Hotels.com",
+    "ratingLabel": "8,0 / 10 í Ribe",
     "priceEur": 13500,
     "pricePerNightEur": 13500,
     "priceFormatted": "13.500 kr./nótt (m/ sköttum)",
-    "photo": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=900&auto=format&fit=crop&q=80",
-    "url": "https://is.hotels.com/Hotel-Search?destination=Hotel%20Ribe&startDate=2027-02-19&endDate=2027-02-20&adults=2",
+    "photo": "https://hotelribe.dk/wp-content/uploads/2025/04/463963925_8553069714768714_4409712121921251517_n-e1749052105729.jpg",
+    "url": "https://hotelribe.dk/",
     "officialUrl": "https://hotelribe.dk/",
     "isBudgetFit": true,
-    "suggestedBy": "Hotels.com & Gemini",
+    "suggestedBy": "Ribe Gisting",
     "availableWeeks": [
       "leg2"
     ],
-    "availabilitySummary": "Leggur 2 (Fös 19. – Lau 20. feb, 1 nótt: ~13.500 kr. m/ sköttum) · Gott og hagkvæmt hótel í göngufæri við gamla bæinn í Rípe.",
+    "availabilitySummary": "Leggur 2 (Fös 19. – Lau 20. feb, 1 nótt: ~13.500 kr.) · Sjarmerandi og hagkvæm heimagististemma í göngufæri við allar helstu söguslóðir Ribe.",
     "pricesByWeek": {
       "leg2": 13500
     }
@@ -292,68 +329,102 @@
     "title": "Hotel & Restaurant Backhaus Ribe",
     "category": "hotel",
     "legId": "leg2",
-    "propertyType": "Hótel & Veitingastaður í Rípe (Legg 2 · 1 nótt)",
-    "city": "Rípe (Ribe)",
-    "region": "🏰 Rípe · 19.–20. feb (1 nótt)",
-    "country": "Rípe",
+    "propertyType": "Gistihús & Veitingastaður í Ribe (Legg 2 · 1 nótt)",
+    "city": "Ribe",
+    "region": "🏰 Ribe · 19.–20. feb (1 nótt)",
+    "country": "Ribe",
     "address": "Grydegade 12, 6760 Ribe",
     "specs": [
       "16.400 kr./nótt (m/ sköttum)",
       "Grydegade 12, Ribe",
-      "Góður veitingastaður",
+      "Góður veitingastaður & notaleg herbergi",
       "Miðsvæðis í gamla bænum"
     ],
     "rating": "4.1",
-    "ratingLabel": "8,2 / 10 á Hotels.com",
+    "ratingLabel": "8,2 / 10 í Ribe",
     "priceEur": 16400,
     "pricePerNightEur": 16400,
     "priceFormatted": "16.400 kr./nótt (m/ sköttum)",
-    "photo": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=900&auto=format&fit=crop&q=80",
-    "url": "https://is.hotels.com/Hotel-Search?destination=Ribe%2C%20Denmark&startDate=2027-02-19&endDate=2027-02-20&adults=2",
+    "photo": "https://impro.usercontent.one/appid/oneComWsb/domain/backhaus.dk/media/backhaus.dk/onewebmedia/image%20(9).jpg",
+    "url": "https://www.backhaus.dk/",
     "officialUrl": "https://www.backhaus.dk/",
     "isBudgetFit": true,
-    "suggestedBy": "Hotels.com & Gemini",
+    "suggestedBy": "Ribe Gisting",
     "availableWeeks": [
       "leg2"
     ],
-    "availabilitySummary": "Leggur 2 (Fös 19. – Lau 20. feb, 1 nótt: ~16.400 kr. m/ sköttum) · Notalegt hótel og veitingastaður í sögulega miðbænum í Rípe.",
+    "availabilitySummary": "Leggur 2 (Fös 19. – Lau 20. feb, 1 nótt: ~16.400 kr.) · Notaleg gisting og rómaður veitingastaður í gömlu göngugötunum í Ribe.",
     "pricesByWeek": {
       "leg2": 16400
     }
   },
   {
+    "id": "hotel_dagmar_ribe",
+    "title": "Hotel Dagmar – Elsta hótel Danmerkur (frá 1581)",
+    "category": "hotel",
+    "legId": "leg2",
+    "propertyType": "Sögufrægt hótel í Ribe (Legg 2 · 1 nótt)",
+    "city": "Ribe",
+    "region": "🏰 Ribe · 19.–20. feb (1 nótt)",
+    "country": "Ribe",
+    "address": "Torvet 1, 6760 Ribe",
+    "specs": [
+      "23.900 kr./nótt (m/ sköttum)",
+      "Torvet 1 (við dómkirkjuna)",
+      "Byggt 1581 · Rómantískt",
+      "⭐ 8,6 / 10"
+    ],
+    "rating": "4.3",
+    "ratingLabel": "8,6 / 10 (Sögulegt lúxushótel)",
+    "priceEur": 23900,
+    "pricePerNightEur": 23900,
+    "priceFormatted": "23.900 kr./nótt (m/ sköttum)",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hotel_Dagmar%2C_Torvet_1%2C_Ribe_-_med_sne.jpg/1280px-Hotel_Dagmar%2C_Torvet_1%2C_Ribe_-_med_sne.jpg",
+    "url": "https://www.hoteldagmar.dk/",
+    "officialUrl": "https://www.hoteldagmar.dk/",
+    "isBudgetFit": false,
+    "suggestedBy": "Ribe Sögulegt",
+    "availableWeeks": [
+      "leg2"
+    ],
+    "availabilitySummary": "Leggur 2 (Fös 19. – Lau 20. feb, 1 nótt: ~23.900 kr.) · Elsta hótel Danmerkur beint á dómkirkjutorginu í Ribe, ef valin er klassísk lúxusupplifun.",
+    "pricesByWeek": {
+      "leg2": 23900
+    }
+  },
+  {
     "id": "hotel_pier5_aalborg",
-    "title": "Pier 5 Hotel – Við Limfjörðinn & Utzon Center",
+    "title": "Pier 5 Hotel Aalborg (Við Limfjörðinn & Utzon Center)",
     "category": "hotel",
     "legId": "leg3",
     "isTopPick": true,
-    "propertyType": "Design-hótel í Álaborg (Legg 3 · 2 nætur)",
+    "propertyType": "Hönnunarhótel í Álaborg (Legg 3 · 2 nætur)",
     "city": "Álaborg (Aalborg)",
     "region": "🌊 Álaborg · 20.–22. feb (2 nætur)",
     "country": "Álaborg",
     "address": "Rendsburggade 5, 9000 Aalborg",
     "specs": [
-      "19.800 kr./nótt (m/ sköttum)",
-      "39.600 kr. (2 nætur)",
-      "Rendsburggade 5 (Hafnarbakkinn)",
+      "17.508 kr./nótt (m/ sköttum)",
+      "35.016 kr. alls (2 nætur)",
+      "Rendsburggade 5 við hafnarbakkann",
       "⭐ 9,0 / 10 á Hotels.com"
     ],
     "rating": "4.5",
     "ratingLabel": "9,0 / 10 á Hotels.com",
-    "priceEur": 39600,
-    "pricePerNightEur": 19800,
-    "priceFormatted": "19.800 kr./nótt (39.600 kr. alls m/ sköttum)",
-    "photo": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=900&auto=format&fit=crop&q=80",
-    "url": "https://is.hotels.com/Hotel-Search?destination=Pier%205%20Hotel%20Aalborg&startDate=2027-02-20&endDate=2027-02-22&adults=2",
+    "priceEur": 35016,
+    "pricePerNightEur": 17508,
+    "priceFormatted": "17.508 kr./nótt (35.016 kr. alls fyrir 2 nætur)",
+    "photo": "https://images.trvl-media.com/lodging/1000000/30000/20200/20149/06156613.jpg?impolicy=fcrop&w=1200&h=800",
+    "url": "https://is.hotels.com/ho226056/slotshotellet-aalborg-alborg-danmork/?chkin=2027-02-20&chkout=2027-02-22&rm1=a2&regionId=6023934",
     "officialUrl": "https://pier5.dk/",
     "isBudgetFit": true,
-    "suggestedBy": "Hotels.com & Gemini",
+    "suggestedBy": "Hotels.com Raunverð",
     "availableWeeks": [
       "leg3"
     ],
-    "availabilitySummary": "Leggur 3 (Lau 20. – Mán 22. feb, 2 nætur: ~39.600 kr. m/ sköttum á Hotels.com; var 26.924 kr. án skatta í Gemini skjali) · Glæsilegt hönnunarhótel beint á nýja hafnarbakkanum við Limfjörðinn og Utzon Center.",
+    "availabilitySummary": "Raunverð á is.hotels.com: 17.508 kr./nótt (35.016 kr. alls fyrir 2 nætur 20.–22. feb m/ sköttum). Glæsilegt nýtt hönnunarhótel beint á nýja hafnarbakkanum við Limfjörðinn og Utzon Center.",
     "pricesByWeek": {
-      "leg3": 39600
+      "leg3": 35016
     }
   },
   {
@@ -368,27 +439,27 @@
     "country": "Álaborg",
     "address": "Ved Stranden 14-16, 9000 Aalborg",
     "specs": [
-      "18.900 kr./nótt (m/ sköttum)",
-      "37.800 kr. (2 nætur)",
+      "14.776 kr./nótt (m/ sköttum)",
+      "29.552 kr. alls (2 nætur)",
       "Ved Stranden 14 (miðbær & höfn)",
       "⭐ 8,2 / 10 á Hotels.com"
     ],
     "rating": "4.1",
     "ratingLabel": "8,2 / 10 á Hotels.com",
-    "priceEur": 37800,
-    "pricePerNightEur": 18900,
-    "priceFormatted": "18.900 kr./nótt (37.800 kr. alls m/ sköttum)",
-    "photo": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=900&auto=format&fit=crop&q=80",
-    "url": "https://is.hotels.com/Hotel-Search?destination=Radisson%20Blu%20Limfjord%20Hotel%20Aalborg&startDate=2027-02-20&endDate=2027-02-22&adults=2",
+    "priceEur": 29552,
+    "pricePerNightEur": 14776,
+    "priceFormatted": "14.776 kr./nótt (29.552 kr. alls fyrir 2 nætur)",
+    "photo": "https://images.trvl-media.com/lodging/1000000/530000/524500/524489/69d21c79.jpg?impolicy=fcrop&w=1200&h=800",
+    "url": "https://is.hotels.com/ho186737/radisson-blu-limfjord-hotel-aalborg-alborg-danmork/?chkin=2027-02-20&chkout=2027-02-22&rm1=a2&regionId=6023934",
     "officialUrl": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-aalborg",
     "isBudgetFit": true,
-    "suggestedBy": "Hotels.com & Gemini",
+    "suggestedBy": "Hotels.com Raunverð",
     "availableWeeks": [
       "leg3"
     ],
-    "availabilitySummary": "Leggur 3 (Lau 20. – Mán 22. feb, 2 nætur: ~37.800 kr. m/ sköttum) · Klassískt 4-stjörnu hótel við Limfjörðinn og miðbæ Álaborgar.",
+    "availabilitySummary": "Raunverð á is.hotels.com: 14.776 kr./nótt (29.552 kr. alls fyrir 2 nætur 20.–22. feb m/ sköttum). Klassískt 4-stjörnu hótel við Limfjörðinn og göngugöturnar í miðbæ Álaborgar.",
     "pricesByWeek": {
-      "leg3": 37800
+      "leg3": 29552
     }
   },
   {
@@ -402,27 +473,27 @@
     "country": "Álaborg",
     "address": "Østerbro 27, 9000 Aalborg",
     "specs": [
-      "17.200 kr./nótt (m/ sköttum)",
-      "34.400 kr. (2 nætur)",
+      "15.580 kr./nótt (m/ sköttum)",
+      "31.159 kr. alls (2 nætur)",
       "Østerbro 27 (við Musikkens Hus)",
       "⭐ 8,6 / 10 á Hotels.com"
     ],
     "rating": "4.3",
     "ratingLabel": "8,6 / 10 á Hotels.com",
-    "priceEur": 34400,
-    "pricePerNightEur": 17200,
-    "priceFormatted": "17.200 kr./nótt (34.400 kr. alls m/ sköttum)",
-    "photo": "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?w=900&auto=format&fit=crop&q=80",
-    "url": "https://is.hotels.com/Hotel-Search?destination=KOMPAS%20Hotel%20Aalborg&startDate=2027-02-20&endDate=2027-02-22&adults=2",
+    "priceEur": 31159,
+    "pricePerNightEur": 15580,
+    "priceFormatted": "15.580 kr./nótt (31.159 kr. alls fyrir 2 nætur)",
+    "photo": "https://images.trvl-media.com/lodging/6000000/5810000/5809100/5809065/23ef647a.jpg?impolicy=fcrop&w=1200&h=800",
+    "url": "https://is.hotels.com/ho428036/kompas-hotel-aalborg-alborg-danmork/?chkin=2027-02-20&chkout=2027-02-22&rm1=a2&regionId=6023934",
     "officialUrl": "https://kompashotel.dk/",
     "isBudgetFit": true,
-    "suggestedBy": "Hotels.com & Gemini",
+    "suggestedBy": "Hotels.com Raunverð",
     "availableWeeks": [
       "leg3"
     ],
-    "availabilitySummary": "Leggur 3 (Lau 20. – Mán 22. feb, 2 nætur: ~34.400 kr. m/ sköttum) · Eitt elsta og vinsælasta sjómannahótel Álaborgar, nýuppgert við Nordkraft og Musikkens Hus.",
+    "availabilitySummary": "Raunverð á is.hotels.com: 15.580 kr./nótt (31.159 kr. fyrir 2 nætur 20.–22. feb m/ sköttum). Vinalegt og nýuppgert hótel rétt við Musikkens Hus og Nordkraft menningarmiðstöðina.",
     "pricesByWeek": {
-      "leg3": 34400
+      "leg3": 31159
     }
   },
   {
@@ -436,27 +507,166 @@
     "country": "Álaborg",
     "address": "Vestre Havnepromenade 7, 9000 Aalborg",
     "specs": [
-      "13.500 kr./nótt (m/ sköttum)",
-      "27.000 kr. (2 nætur)",
+      "12.604 kr./nótt (m/ sköttum)",
+      "25.208 kr. alls (2 nætur)",
       "Vestre Havnepromenade 7",
       "⭐ 9,0 / 10 · Hagkvæmt & nýlegt"
     ],
     "rating": "4.5",
     "ratingLabel": "9,0 / 10 á Hotels.com",
-    "priceEur": 27000,
-    "pricePerNightEur": 13500,
-    "priceFormatted": "13.500 kr./nótt (27.000 kr. alls m/ sköttum)",
-    "photo": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=900&auto=format&fit=crop&q=80",
-    "url": "https://is.hotels.com/Hotel-Search?destination=B%26B%20HOTEL%20Aalborg&startDate=2027-02-20&endDate=2027-02-22&adults=2",
+    "priceEur": 25208,
+    "pricePerNightEur": 12604,
+    "priceFormatted": "12.604 kr./nótt (25.208 kr. alls fyrir 2 nætur)",
+    "photo": "https://images.trvl-media.com/lodging/108000000/107580000/107573800/107573788/1988dc07.jpg?impolicy=fcrop&w=1200&h=800",
+    "url": "https://is.hotels.com/ho3443361216/b-b-aalborg/?chkin=2027-02-20&chkout=2027-02-22&rm1=a2&regionId=6023934",
     "officialUrl": "https://www.hotel-bb.com/",
     "isBudgetFit": true,
-    "suggestedBy": "Hotels.com & Gemini",
+    "suggestedBy": "Hotels.com Raunverð",
     "availableWeeks": [
       "leg3"
     ],
-    "availabilitySummary": "Leggur 3 (Lau 20. – Mán 22. feb, 2 nætur: ~27.000 kr. m/ sköttum) · Nýlegt, hreinlegt og mjög hagkvæmt hótel við vestari hafnargönguna (Vestre Havnepromenade).",
+    "availabilitySummary": "Raunverð á is.hotels.com: 12.604 kr./nótt (25.208 kr. fyrir 2 nætur 20.–22. feb m/ sköttum). Nýlegt, mjög hreinlegt og hagkvæmt hótel við vestari hafnargönguna.",
     "pricesByWeek": {
-      "leg3": 27000
+      "leg3": 25208
+    }
+  },
+  {
+    "id": "hotel_scheelsminde_aalborg",
+    "title": "Hotel Scheelsminde Herregård Aalborg",
+    "category": "hotel",
+    "legId": "leg3",
+    "propertyType": "Herragarðshótel í Álaborg (Legg 3 · 2 nætur)",
+    "city": "Álaborg (Aalborg)",
+    "region": "🌊 Álaborg · 20.–22. feb (2 nætur)",
+    "country": "Álaborg",
+    "address": "Scheelsmindevej 35, 9200 Aalborg SV",
+    "specs": [
+      "15.662 kr./nótt (m/ sköttum)",
+      "31.324 kr. alls (2 nætur)",
+      "Scheelsmindevej 35 (Herragarður & sundlaug)",
+      "⭐ 8,6 / 10 á Hotels.com"
+    ],
+    "rating": "4.4",
+    "ratingLabel": "8,6 / 10 á Hotels.com",
+    "priceEur": 31324,
+    "pricePerNightEur": 15662,
+    "priceFormatted": "15.662 kr./nótt (31.324 kr. alls fyrir 2 nætur)",
+    "photo": "https://images.trvl-media.com/lodging/32000000/31710000/31701600/31701578/951f71af.jpg?impolicy=fcrop&w=1200&h=800",
+    "url": "https://is.hotels.com/ho1015450496/hotel-scheelsminde-alborg-danmork/?chkin=2027-02-20&chkout=2027-02-22&rm1=a2&regionId=6023934",
+    "officialUrl": "https://scheelsminde.dk/",
+    "isBudgetFit": true,
+    "suggestedBy": "Hotels.com Raunverð",
+    "availableWeeks": [
+      "leg3"
+    ],
+    "availabilitySummary": "Raunverð á is.hotels.com: 15.662 kr./nótt (31.324 kr. fyrir 2 nætur 20.–22. feb m/ sköttum). Fagur sögulegur herragarður með innisundlaug, saunu og rómaðri matargerð.",
+    "pricesByWeek": {
+      "leg3": 31324
+    }
+  },
+  {
+    "id": "hotel_gestus_aalborg",
+    "title": "Milling Hotel Gestus Aalborg (Félagaverð)",
+    "category": "hotel",
+    "legId": "leg3",
+    "propertyType": "Hótel í miðbæ Álaborgar (Legg 3 · 2 nætur)",
+    "city": "Álaborg (Aalborg)",
+    "region": "🌊 Álaborg · 20.–22. feb (2 nætur)",
+    "country": "Álaborg",
+    "address": "Vesterbro 36, 9000 Aalborg",
+    "specs": [
+      "12.272 kr./nótt (Félagaverð)",
+      "24.543 kr. alls (fyrra verð 34.806 kr.)",
+      "Morgunverður & síðdegiskaffi innifalið",
+      "⭐ 8,2 / 10 á Hotels.com"
+    ],
+    "rating": "4.2",
+    "ratingLabel": "8,2 / 10 á Hotels.com",
+    "priceEur": 24543,
+    "pricePerNightEur": 12272,
+    "priceFormatted": "12.272 kr./nótt (24.543 kr. alls m/ félagaafslætti)",
+    "photo": "https://images.trvl-media.com/lodging/1000000/660000/658900/658877/59105b66.jpg?impolicy=fcrop&w=1200&h=800",
+    "url": "https://is.hotels.com/ho194394/milling-hotel-gestus-alborg-danmork/?chkin=2027-02-20&chkout=2027-02-22&rm1=a2&regionId=6023934",
+    "officialUrl": "https://millinghotels.dk/hoteller/milling-hotel-gestus/",
+    "isBudgetFit": true,
+    "suggestedBy": "Hotels.com Félagaverð",
+    "availableWeeks": [
+      "leg3"
+    ],
+    "availabilitySummary": "Félagaverð á is.hotels.com (með sköttum): 12.272 kr./nótt (24.543 kr. fyrir 2 nætur; fyrra verð 34.806 kr.). Innifalinn ríkulegur morgunverður og síðdegisveitingar í hjarta Álaborgar.",
+    "pricesByWeek": {
+      "leg3": 24543
+    }
+  },
+  {
+    "id": "hotel_jomfru_ane_aalborg",
+    "title": "Hotel Jomfru Ane Aalborg (Félagaverð 34% afsláttur)",
+    "category": "hotel",
+    "legId": "leg3",
+    "propertyType": "Hótel í Álaborg (Legg 3 · 2 nætur)",
+    "city": "Álaborg (Aalborg)",
+    "region": "🌊 Álaborg · 20.–22. feb (2 nætur)",
+    "country": "Álaborg",
+    "address": "Jomfru Ane Gade 25, 9000 Aalborg",
+    "specs": [
+      "11.181 kr./nótt (Félagaverð 34% afsláttur)",
+      "22.361 kr. alls (fyrra verð 33.880 kr.)",
+      "Miðsvæðis í göngugötum",
+      "⭐ 8,0 / 10 á Hotels.com"
+    ],
+    "rating": "4.0",
+    "ratingLabel": "8,0 / 10 á Hotels.com",
+    "priceEur": 22361,
+    "pricePerNightEur": 11181,
+    "priceFormatted": "11.181 kr./nótt (22.361 kr. alls m/ félagaafslætti)",
+    "photo": "https://images.trvl-media.com/lodging/7000000/6620000/6611200/6611184/03222233.jpg?impolicy=fcrop&w=1200&h=800",
+    "url": "https://is.hotels.com/ho443082/hotel-jomfru-ane-alborg-danmork/?chkin=2027-02-20&chkout=2027-02-22&rm1=a2&regionId=6023934",
+    "officialUrl": "https://hoteljomfruane.dk/",
+    "isBudgetFit": true,
+    "suggestedBy": "Hotels.com Félagaverð",
+    "availableWeeks": [
+      "leg3"
+    ],
+    "availabilitySummary": "Félagaverð með 34% afslætti á is.hotels.com: 11.181 kr./nótt (22.361 kr. fyrir 2 nætur; fyrra verð 33.880 kr.). Hagkvæm gisting í hjarta Álaborgar.",
+    "pricesByWeek": {
+      "leg3": 22361
+    }
+  },
+  {
+    "id": "hotel_knudsens_gaard_odense_4",
+    "title": "Hotel Knudsens Gaard (Síðasta nóttin 22.–23. feb)",
+    "category": "hotel",
+    "legId": "leg4",
+    "isTopPick": true,
+    "propertyType": "Hótel í Óðinsvéum (Legg 4 · 1 nótt)",
+    "city": "Óðinsvé (Odense)",
+    "region": "🏨 Óðinsvé · 22.–23. feb (1 nótt)",
+    "country": "Óðinsvé",
+    "address": "Hunderupgade 2, 5230 Odense M",
+    "specs": [
+      "14.694 kr./nótt (Félagaverð)",
+      "🅿️ Ókeypis bílastæði við hús",
+      "Stutt að aka út á hraðbraut til CPH",
+      "⭐ 8,8 / 10 á Hotels.com"
+    ],
+    "rating": "4.5",
+    "ratingLabel": "8,8 / 10 á Hotels.com",
+    "priceEur": 14694,
+    "pricePerNightEur": 14694,
+    "priceFormatted": "14.694 kr./nótt (m/ félagaafslætti)",
+    "photo": "https://images.trvl-media.com/lodging/1000000/30000/22300/22263/fbb09fb3.jpg?impolicy=fcrop&w=1200&h=800",
+    "url": "https://is.hotels.com/ho354925/hotel-knudsens-gaard-odense-danmork/?chkin=2027-02-22&chkout=2027-02-23&rm1=a2&regionId=2638",
+    "officialUrl": "https://knudsensgaard.dk/",
+    "isBudgetFit": true,
+    "suggestedBy": "Hotels.com Félagaverð",
+    "availableWeeks": [
+      "leg4",
+      "leg1"
+    ],
+    "availabilitySummary": "Leggur 4 (Mán 22. – Þri 23. feb, 1 nótt: 14.694 kr. m/ félagaafslætti) · Frábær lokanótt með ókeypis bílastæði og fljótlegu aðgengi út á E20 hraðbrautina yfir Stórabeltisbrúna á Kastrup (CPH).",
+    "pricesByWeek": {
+      "leg4": 14694,
+      "leg1": 29388
     }
   },
   {
@@ -507,29 +717,29 @@
     "country": "Óðinsvé",
     "address": "Østre Stationsvej 7-9, 5000 Odense C",
     "specs": [
-      "11.500 kr./nótt (m/ sköttum)",
+      "11.739 kr./nótt (m/ sköttum)",
       "Við lestarstöðina í Odense",
       "Hagkvæm gisting fyrir heimflug",
-      "Hotels.com"
+      "⭐ 8,0 / 10 á Hotels.com"
     ],
-    "rating": "3.5",
-    "ratingLabel": "7,0 / 10 á Hotels.com",
-    "priceEur": 11500,
-    "pricePerNightEur": 11500,
-    "priceFormatted": "11.500 kr./nótt (m/ sköttum)",
-    "photo": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=900&auto=format&fit=crop&q=80",
-    "url": "https://is.hotels.com/Hotel-Search?destination=CABINN%20Odense&startDate=2027-02-22&endDate=2027-02-23&adults=2",
+    "rating": "3.8",
+    "ratingLabel": "8,0 / 10 á Hotels.com",
+    "priceEur": 11739,
+    "pricePerNightEur": 11739,
+    "priceFormatted": "11.739 kr./nótt (m/ sköttum)",
+    "photo": "https://images.trvl-media.com/lodging/2000000/1860000/1851800/1851770/cacd1f6b.jpg?impolicy=fcrop&w=1200&h=800",
+    "url": "https://is.hotels.com/ho266188/cabinn-odense-hotel-odense-danmork/?chkin=2027-02-22&chkout=2027-02-23&rm1=a2&regionId=2638",
     "officialUrl": "https://www.cabinn.com/hotel/cabinn-odense-hotel",
     "isBudgetFit": true,
-    "suggestedBy": "Hotels.com & Gemini",
+    "suggestedBy": "Hotels.com",
     "availableWeeks": [
       "leg4",
       "leg1"
     ],
-    "availabilitySummary": "Leggur 4 (Mán 22. – Þri 23. feb, 1 nótt: ~11.500 kr. m/ sköttum) · Einfalt og ódýrt hótel í miðbæ Óðinsvéa ef aðeins vantar svefnstað fyrir heimferð.",
+    "availabilitySummary": "Leggur 4 (Mán 22. – Þri 23. feb, 1 nótt: 11.739 kr. m/ sköttum á is.hotels.com) · Einfalt og ódýrt hótel í miðbæ Óðinsvéa ef aðeins vantar hagkvæman svefnstað fyrir heimferð.",
     "pricesByWeek": {
-      "leg4": 11500,
-      "leg1": 23000
+      "leg4": 11739,
+      "leg1": 23478
     }
   },
   {
@@ -554,7 +764,7 @@
     "priceEur": 44057,
     "pricePerNightEur": 7343,
     "priceFormatted": "7.343 kr./dag (44.057 kr. 6 dagar)",
-    "photo": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=900&auto=format&fit=crop&q=80",
+    "photo": "img/cars/skoda_octavia.jpg",
     "url": "https://www.sixt.com/",
     "officialUrl": "https://www.europcar.com/",
     "isBudgetFit": true,
@@ -588,7 +798,7 @@
     "priceEur": 42833,
     "pricePerNightEur": 7098,
     "priceFormatted": "7.098 kr./dag (42.833 kr. 6 dagar)",
-    "photo": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=900&auto=format&fit=crop&q=80",
+    "photo": "img/cars/ford_focus.jpg",
     "url": "https://www.europcar.com/",
     "officialUrl": "https://www.europcar.com/",
     "isBudgetFit": true,
@@ -623,7 +833,7 @@
     "priceEur": 52623,
     "pricePerNightEur": 8811,
     "priceFormatted": "8.811 kr./dag (52.623 kr. 6 dagar)",
-    "photo": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=900&auto=format&fit=crop&q=80",
+    "photo": "img/cars/nissan_qashqai.jpg",
     "url": "https://www.hertz.com/",
     "officialUrl": "https://www.hertz.com/",
     "isBudgetFit": true,
@@ -657,7 +867,7 @@
     "priceEur": 57274,
     "pricePerNightEur": 9546,
     "priceFormatted": "9.546 kr./dag (57.274 kr. 6 dagar)",
-    "photo": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=900&auto=format&fit=crop&q=80",
+    "photo": "img/cars/skoda_kodiaq.jpg",
     "url": "https://www.avis.com/",
     "officialUrl": "https://www.avis.com/",
     "isBudgetFit": true,
@@ -691,7 +901,7 @@
     "priceEur": 62414,
     "pricePerNightEur": 10402,
     "priceFormatted": "10.402 kr./dag (62.414 kr. 6 dagar)",
-    "photo": "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?w=900&auto=format&fit=crop&q=80",
+    "photo": "img/cars/vw_touran.jpg",
     "url": "https://www.budget.com/",
     "officialUrl": "https://www.budget.com/",
     "isBudgetFit": false,
@@ -699,7 +909,7 @@
     "availableWeeks": [
       "car"
     ],
-    "availabilitySummary": "CPH Kastrup (17.–23. feb, 6 dagar: 62.414 kr.) · Hámarkspláss fyrir flatpack kassa úr IKEA og mikinn farangur milli Óðinsvéa, Rípe og Álaborgar.",
+    "availabilitySummary": "CPH Kastrup (17.–23. feb, 6 dagar: 62.414 kr.) · Hámarkspláss fyrir flatpack kassa úr IKEA og mikinn farangur milli Óðinsvéa, Ribe og Álaborgar.",
     "pricesByWeek": {
       "car": 62414
     }
@@ -725,7 +935,7 @@
     "priceEur": 71959,
     "pricePerNightEur": 11993,
     "priceFormatted": "11.993 kr./dag (71.959 kr. 6 dagar)",
-    "photo": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?w=900&auto=format&fit=crop&q=80",
+    "photo": "img/cars/vw_caddy.jpg",
     "url": "https://www.sixt.com/",
     "officialUrl": "https://www.sixt.com/",
     "isBudgetFit": false,
