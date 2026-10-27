@@ -2061,25 +2061,8 @@
           </div>
         </div>
 
-        <div class="card" id="weeksMatrixCard">
-          <div class="card-title" style="display: flex; align-items: center; gap: 8px;">
-            <span style="font-size: 1.3rem;">📅</span>
-            <span>2. Áfangar ferðarinnar & Staðfesting (Sigurjón & Lóa)</span>
-          </div>
-          <div class="card-desc" style="margin-bottom: 12px;">
-            Smelltu á reitina í þinni línu til að staðfesta áfangana (<strong>✅ Staðfest</strong>, <strong>🟡 Skoða betur</strong>) eða smelltu á dálkhaus hvers áfanga (t.d. <strong>Leggur 1: Óðinsvé</strong> eða <strong>🚗 Bílaleigubíll</strong>) til að sía hótel og bíla fyrir þann legg!
-          </div>
-
-          <!-- Quick Legend Bar -->
-          <div class="matrix-legend-bar">
-            <span class="legend-item"><span class="legend-icon">🏨</span> Leggur 1: Óðinsvé (17.–19. feb)</span>
-            <span class="legend-item"><span class="legend-icon">🏰</span> Leggur 2: Rípe (19.–20. feb)</span>
-            <span class="legend-item"><span class="legend-icon">🌊</span> Leggur 3: Álaborg (20.–22. feb)</span>
-            <span class="legend-item"><span class="legend-icon">🏨</span> Leggur 4: Óðinsvé (22.–23. feb)</span>
-            <span class="legend-item"><span class="legend-icon">🚗</span> Bílaleiga CPH (17.–23. feb)</span>
-            <span class="legend-item" style="color: var(--primary);"><span class="legend-icon">ℹ️</span> Smelltu á dálkhaus til að sjá valkosti fyrir þann áfanga</span>
-          </div>
-
+        <!-- Vikudagatal / Áfangatafla falin þar sem dagsetningar ferðar (17.–23. feb 2027) eru fastar -->
+        <div class="card" id="weeksMatrixCard" style="display: none;">
           <div id="familyAvailabilityOverview"></div>
           <div id="weeksGrid" style="display:none;"></div>
           <div id="weekConflictSummary" style="display:none;"></div>
@@ -2267,7 +2250,7 @@
 
         <div class="card">
           <div class="card-title" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
-            <span>3. Hótel á Hotels.com & Bílaleigubílar (<span id="totalHousesHeaderCount">0</span> valkostir)</span>
+            <span>2. Hótel á Hotels.com & Bílaleigubílar (<span id="totalHousesHeaderCount">0</span> valkostir)</span>
             <button class="add-house-btn" onclick="openAddHouseModal()">➕ Bæta við hóteli / bíl</button>
           </div>
           <div class="card-desc">
@@ -2309,7 +2292,7 @@
         </div>
 
         <div class="card">
-          <div class="card-title">4. Minnispunktar, óskir & IKEA listi (Sigurjón & Lóa)</div>
+          <div class="card-title">3. Minnispunktar, óskir & IKEA listi (Sigurjón & Lóa)</div>
           <div class="card-desc">Skráið minnispunkta fyrir ferðina (t.d. hvað á að kaupa í IKEA, tímasetningar í SDU / AAU, heimsókn í Rípe eða óskir um hótelherbergi):</div>
           <textarea id="commentInput" rows="3" placeholder="Skrifaðu minnispunkta eða óskir hér (vistast sjálfkrafa)..." oninput="onCommentChange(this.value)" onchange="pushToCloud()"></textarea>
 
@@ -2328,73 +2311,71 @@
     💡 Ábending
   </button>
 
-  <!-- Modal: Bæta við húsi -->
+  <!-- Modal: Bæta við hóteli / bíl -->
   <div class="modal-overlay" id="addHouseModal">
     <div class="modal-box">
-      <h3 id="addHouseModalTitle" style="margin-bottom: 6px; font-size: 1.25rem;">➕ Leggja til nýtt hús</h3>
+      <h3 id="addHouseModalTitle" style="margin-bottom: 6px; font-size: 1.25rem;">➕ Bæta við hóteli eða bílaleigubíl</h3>
       <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 18px;">
-        Fannstu spennandi hús á Airbnb eða annars staðar? Bættu því við svo allir geti skoðað og kosið!
+        Fannstu annað spennandi hótel á Hotels.com eða bílaleigubíl? Bættu því við svo þið Lóa getið skoðað og kosið!
       </p>
 
       <div style="display:flex; flex-direction:column; gap: 12px;">
         <div>
           <label style="font-size: 0.8rem; font-weight:700; display:block; margin-bottom:4px;">Tillaga frá (þitt nafn) *</label>
-          <input type="text" id="newHousePerson" placeholder="Nafn þitt..." required>
+          <input type="text" id="newHousePerson" placeholder="Sigurjón eða Lóa..." required>
         </div>
 
         <div>
-          <label style="font-size: 0.8rem; font-weight:700; display:block; margin-bottom:4px;">Airbnb eða vefslóð *</label>
-          <input type="url" id="newHouseUrl" placeholder="https://www.airbnb.com/rooms/..." required>
+          <label style="font-size: 0.8rem; font-weight:700; display:block; margin-bottom:4px;">Hotels.com eða vefslóð *</label>
+          <input type="url" id="newHouseUrl" placeholder="https://is.hotels.com/..." required>
         </div>
 
         <div>
-          <label style="font-size: 0.8rem; font-weight:700; display:block; margin-bottom:4px;">Nafn eða lýsing á húsinu *</label>
-          <input type="text" id="newHouseTitle" placeholder="t.d. Glæsileg villa við ströndina á Skáni" required>
+          <label style="font-size: 0.8rem; font-weight:700; display:block; margin-bottom:4px;">Nafn á hóteli eða bíl *</label>
+          <input type="text" id="newHouseTitle" placeholder="t.d. Milling Hotel Plaza Odense" required>
         </div>
 
         <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 10px;">
           <div>
-            <label style="font-size: 0.8rem; font-weight:700; display:block; margin-bottom:4px;">Svæði / Staður *</label>
-            <input type="text" id="newHouseRegion" placeholder="t.d. Borrby, Skáni">
+            <label style="font-size: 0.8rem; font-weight:700; display:block; margin-bottom:4px;">Borg / Áfangi *</label>
+            <input type="text" id="newHouseRegion" placeholder="t.d. Óðinsvé, Rípe eða Álaborg">
           </div>
           <div>
-            <label style="font-size: 0.8rem; font-weight:700; display:block; margin-bottom:4px;">Land *</label>
+            <label style="font-size: 0.8rem; font-weight:700; display:block; margin-bottom:4px;">Flokkur *</label>
             <select id="newHouseCountry">
-              <option value="Svíþjóð">Svíþjóð</option>
-              <option value="Danmörk">Danmörk</option>
-              <option value="Annað">Annað</option>
+              <option value="Óðinsvé">Óðinsvé (Odense)</option>
+              <option value="Rípe">Rípe (Ribe)</option>
+              <option value="Álaborg">Álaborg (Aalborg)</option>
+              <option value="Bílaleiga">Bílaleigubíll CPH</option>
             </select>
           </div>
         </div>
 
         <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 10px;">
           <div>
-            <label style="font-size: 0.8rem; font-weight:700; display:block; margin-bottom:4px;">Áætlað verð á viku</label>
-            <input type="text" id="newHousePrice" placeholder="t.d. €2.800 / vika">
+            <label style="font-size: 0.8rem; font-weight:700; display:block; margin-bottom:4px;">Verð (með sköttum)</label>
+            <input type="text" id="newHousePrice" placeholder="t.d. 31.403 kr. (2 nætur)">
           </div>
           <div>
-            <label style="font-size: 0.8rem; font-weight:700; display:block; margin-bottom:4px;">Fjöldi herbergja / rúma</label>
-            <input type="text" id="newHouseSpecs" placeholder="t.d. 7 herb, 14 rúm">
+            <label style="font-size: 0.8rem; font-weight:700; display:block; margin-bottom:4px;">Eiginleikar / Herbergi</label>
+            <input type="text" id="newHouseSpecs" placeholder="t.d. Ókeypis bílastæði, morgunmatur">
           </div>
         </div>
 
         <div>
           <label style="font-size: 0.8rem; font-weight:700; display:block; margin-bottom:4px;">Myndaslóð (valfrjálst)</label>
-          <input type="url" id="newHousePhoto" placeholder="https://... bein myndaslóð (endar á .jpg/.png) eða má sleppa">
-          <div style="font-size: 0.72rem; color: var(--text-muted); margin-top: 3px;">
-            💡 Hægri-smelltu á mynd á Airbnb &gt; <em>Afrita myndaslóð (Copy image address)</em>. Ekki líma vefslóðina á herberginu hér.
-          </div>
+          <input type="url" id="newHousePhoto" placeholder="https://... bein myndaslóð (eða má sleppa)">
         </div>
 
         <div>
           <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-            <label style="font-size: 0.8rem; font-weight:700;">📅 Lausar vikur á tímabilinu (19. jún – 28. ágú · Lau–Lau):</label>
+            <label style="font-size: 0.8rem; font-weight:700;">📅 Áfangi ferðarinnar (17.–23. feb 2027):</label>
             <div style="display: flex; gap: 6px;">
-              <button type="button" onclick="setAllModalWeeks(true)" style="font-size: 0.72rem; padding: 2px 7px; border: 1px solid var(--border); border-radius: 4px; background: #eff6ff; color: #1d4ed8; cursor: pointer; font-weight: 600;">Allar</button>
+              <button type="button" onclick="setAllModalWeeks(true)" style="font-size: 0.72rem; padding: 2px 7px; border: 1px solid var(--border); border-radius: 4px; background: #eff6ff; color: #1d4ed8; cursor: pointer; font-weight: 600;">Allir</button>
               <button type="button" onclick="setAllModalWeeks(false)" style="font-size: 0.72rem; padding: 2px 7px; border: 1px solid var(--border); border-radius: 4px; background: white; color: var(--text-muted); cursor: pointer;">Hreinsa</button>
             </div>
           </div>
-          <div id="modalWeeksCheckboxes" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(85px, 1fr)); gap: 6px; background: #f8fafc; padding: 8px; border: 1px solid var(--border); border-radius: 8px; max-height: 120px; overflow-y: auto;">
+          <div id="modalWeeksCheckboxes" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(135px, 1fr)); gap: 6px; background: #f8fafc; padding: 8px; border: 1px solid var(--border); border-radius: 8px; max-height: 120px; overflow-y: auto;">
           </div>
         </div>
 
