@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Danmörk febrúar 2027//Sigurjón & Lóa//IS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Danmerkurferð 2027 – Sigurjón & Lóa
+BEGIN:VEVENT
+UID:danmork-feb-2027-main@danmork2027.is
+DTSTAMP:20261027T130000Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270224
+SUMMARY:🇩🇰 Danmerkurferð Sigurjóns & Lóu – Óðinsvé, Rípe & Álaborg 🚗🏨
+DESCRIPTION:6 nátta / 7 daga ferð Sigurjóns og Lóu til Danmerkur (17.–23. febrúar 2027).
+Leið: Kastrup (CPH) ➔ Óðinsvé (2 nætur) ➔ Rípe (1 nótt) ➔ Álaborg (2 nætur) ➔ Óðinsvé (1 nótt) ➔ Kastrup (CPH).
+Flug: KEF - CPH (Icelandair FI 204 / FI 205).
+LOCATION:Odense, Ribe & Aalborg, Danmörk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:danmork-feb-2027-day1@danmork2027.is
+DTSTAMP:20261027T130000Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:✈️ Dagur 1 (Mið 17. feb): Koma til Danmerkur & Akstur til Óðinsvéa
+DESCRIPTION:Flug KEF ➔ Kastrup (CPH). Bílaleigubíll sóttur á CPH, ekið vestur yfir Stóra-Beltisbrúna til Óðinsvéa (~165 km, 1 klst. 50 mín). Heimsókn í Syddansk Universitet (SDU) og notalegt kvöld saman. Gist í Óðinsvéum.
+LOCATION:Odense, Danmörk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:danmork-feb-2027-day2@danmork2027.is
+DTSTAMP:20261027T130000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:🏙️ Dagur 2 (Fim 18. feb): Heill dagur í Óðinsvéum (Odense)
+DESCRIPTION:Rólegur morgunn, miðbærinn í Óðinsvéum skoðaður (H.C. Andersen hverfið, kaffihús og verslanir) og góður tími í bænum. Gist í Óðinsvéum (nótt 2 af 2).
+LOCATION:Odense, Danmörk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:danmork-feb-2027-day3@danmork2027.is
+DTSTAMP:20261027T130000Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:🏰 Dagur 3 (Fös 19. feb): Óðinsvé til Rípe, IKEA varningur & Heimsókn til vinkonu
+DESCRIPTION:Akstur frá Óðinsvéum til Rípe (~140 km, 1 klst. 45 mín). Mögulegt stopp í IKEA (Odense eða Kolding) til að sækja varning. Heimsókn til vinkonu í Rípe, elsta bæ Danmerkur, og rölt um sögulegar götur og Ribe Domkirke. Gist í Rípe.
+LOCATION:Ribe, Danmörk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:danmork-feb-2027-day4@danmork2027.is
+DTSTAMP:20261027T130000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:🎓 Dagur 4 (Lau 20. feb): Rípe til Álaborgar & Aalborg Universitet (AAU)
+DESCRIPTION:Akstur norður eftir Jótlandi frá Rípe til Álaborgar (~240 km, 2 klst. 40 mín). Skoðað svæðið í kringum Aalborg Universitet (AAU) og stutt kvöldrölt. Gist í Álaborg.
+LOCATION:Aalborg, Danmörk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:danmork-feb-2027-day5@danmork2027.is
+DTSTAMP:20261027T130000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:🌊 Dagur 5 (Sun 21. feb): Álaborg – Hafnarbakkinn, Utzon Center & Miðbærinn
+DESCRIPTION:Heill dagur í Álaborg. Skoðaður endurnýjaði hafnarbakkinn við Limfjörðinn, Utzon Center, Musikkens Hus, miðbærinn og samvera. Gist í Álaborg (nótt 2 af 2).
+LOCATION:Aalborg, Danmörk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:danmork-feb-2027-day6@danmork2027.is
+DTSTAMP:20261027T130000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:🚗 Dagur 6 (Mán 22. feb): Álaborg til Óðinsvéa – Síðasta kvöldið
+DESCRIPTION:Akstur suður Jótland og aftur yfir til Fjóns (~225 km, 2 klst. 25 mín). Síðasta kvöldið í Óðinsvéum með fjölskyldunni. Gist í Óðinsvéum.
+LOCATION:Odense, Danmörk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:danmork-feb-2027-day7@danmork2027.is
+DTSTAMP:20261027T130000Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:🧳 Dagur 7 (Þri 23. feb): Óðinsvé ➔ Kastrup (CPH) & Heimflug til Íslands
+DESCRIPTION:Akstur frá Óðinsvéum yfir Stóra-Beltisbrúna á Kastrup flugvöll (~165 km, 1 klst. 50 mín). Skilað bílaleigubíl á CPH og flogið heim til Íslands (FI 205).
+LOCATION:Kastrup Airport (CPH)
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

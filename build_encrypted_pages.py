@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Byggir dulkóðaða gagnaskrá fyrir GitHub Pages.
-Öll gögn (hús, nöfn fjölskyldu, vikur) eru dulkóðuð með AES-256 (PBKDF2 SHA-256)
-með fjölskyldu PIN-númerinu. Á GitHub Pages er ómögulegt að lesa gögnin án PIN.
+Byggir dulkóðaða gagnaskrá fyrir GitHub Pages (Danmerkurferð febrúar 2027 - Sigurjón & Lóa).
+Öll gögn (hótel, bílaleigubílar, þátttakendur, áfangar) eru dulkóðuð með AES-256 (PBKDF2 SHA-256)
+með PIN-númerinu. Á GitHub Pages er ómögulegt að lesa gögnin án PIN.
 Keyrsla: python3 build_encrypted_pages.py
 """
 
@@ -29,51 +29,29 @@ def get_pin():
 
 def build():
     pin = get_pin()
-    print(f"🔒 Dulkóða gögn fyrir GitHub Pages með PIN: {pin}")
+    print(f"🔒 Dulkóða gögn fyrir Danmerkurferð á GitHub Pages með PIN: {pin}")
 
-    # Lesa húsagögn
+    # Lesa hótel- og bílaleigugögn
     with open("houses.json", "r", encoding="utf-8") as f:
         houses = json.load(f)
 
+    # Aðeins Sigurjón og Lóa í þessari ferð
     family_members = [
         "Sigurjón Axel (Sissi)",
-        "Ólafía Rósbjörg (Lóa)",
-        "Axel Bjarkar",
-        "Anna Huyen Ngo",
-        "Rannveig Arna",
-        "Þórhildur Soffía",
-        "Birkir Evan",
-        "Viktor Ingi",
-        "Vala Björk",
-        "Sara Kristín"
+        "Ólafía Rósbjörg (Lóa)"
     ]
 
-    # Afmæli sótt beint úr Sag/Ancestry gagnagrunninum (ancestry.db)
-    # https://sigurjonaxel.github.io/ancestry/
     family_birthdays = [
         { "name": "Ólafía Rósbjörg (Lóa)", "shortName": "Lóa", "avatar": "images/avatars/loa.jpg?v=2", "date": "10. janúar 1974", "dayMonth": "10. jan", "year": 1974, "age2027": 53 },
-        { "name": "Vala Björk", "shortName": "Vala", "avatar": "images/avatars/vala.jpg?v=2", "date": "1. febrúar 2005", "dayMonth": "1. feb", "year": 2005, "age2027": 22 },
-        { "name": "Sigurjón Axel (Sissi)", "shortName": "Sigurjón (Sissi)", "avatar": "images/avatars/sigurjon.jpg?v=2", "date": "4. febrúar 1974", "dayMonth": "4. feb", "year": 1974, "age2027": 53 },
-        { "name": "Viktor Ingi", "shortName": "Viktor", "avatar": "images/avatars/viktor.jpg?v=2", "date": "14. mars 1999", "dayMonth": "14. mar", "year": 1999, "age2027": 28 },
-        { "name": "Birkir Evan", "shortName": "Birkir", "avatar": "images/avatars/birkir.jpg?v=2", "date": "6. maí 2014", "dayMonth": "6. maí", "year": 2014, "age2027": 13 },
-        { "name": "Axel Bjarkar", "shortName": "Axel", "avatar": "images/avatars/axel.jpg?v=2", "date": "22. júní 2003", "dayMonth": "22. jún", "year": 2003, "age2027": 24, "inSummer": True },
-        { "name": "Sara Kristín", "shortName": "Sara", "avatar": "images/avatars/sara.jpg?v=2", "date": "18. júlí 2010", "dayMonth": "18. júl", "year": 2010, "age2027": 17, "inSummer": True },
-        { "name": "Þórhildur Soffía", "shortName": "Þórhildur", "avatar": "images/avatars/thorhildur.jpg?v=2", "date": "10. ágúst 2010", "dayMonth": "10. ágú", "year": 2010, "age2027": 17, "inSummer": True },
-        { "name": "Rannveig Arna", "shortName": "Rannveig", "avatar": "images/avatars/rannveig.jpg?v=2", "date": "5. september 2005", "dayMonth": "5. sep", "year": 2005, "age2027": 22 },
-        { "name": "Anna Huyen Ngo", "shortName": "Anna", "avatar": "images/avatars/anna.jpg?v=2", "date": "6. júlí 2003", "dayMonth": "6. júl", "year": 2003, "age2027": 24, "inSummer": True }
+        { "name": "Sigurjón Axel (Sissi)", "shortName": "Sigurjón (Sissi)", "avatar": "images/avatars/sigurjon.jpg?v=2", "date": "4. febrúar 1974", "dayMonth": "4. feb", "year": 1974, "age2027": 53 }
     ]
 
     weeks = [
-        { "id": "w25", "num": "Vika 25", "dates": "19. jún – 26. jún 2027", "tag": "Lau – Lau · 🇸🇪 Midsommar · 🎒 Skólalok · 🎂 Axel 22. jún" },
-        { "id": "w26", "num": "Vika 26", "dates": "26. jún – 03. júl 2027", "tag": "Lau – Lau · 🎒 Skólafrí" },
-        { "id": "w27", "num": "Vika 27", "dates": "03. júl – 10. júl 2027", "tag": "Lau – Lau · 🔥 Háönn í júlí · 🎂 Anna 6. júl" },
-        { "id": "w28", "num": "Vika 28", "dates": "10. júl – 17. júl 2027", "tag": "Lau – Lau · 🔥 Háönn í júlí" },
-        { "id": "w29", "num": "Vika 29", "dates": "17. júl – 24. júl 2027", "tag": "Lau – Lau · 🔥 Háönn · 🎂 Sara 18. júl" },
-        { "id": "w30", "num": "Vika 30", "dates": "24. júl – 31. júl 2027", "tag": "Lau – Lau · 🔥 Háönn" },
-        { "id": "w31", "num": "Vika 31", "dates": "31. júl – 07. ágú 2027", "tag": "Lau – Lau · ⛺ Verslunarmannahelgi" },
-        { "id": "w32", "num": "Vika 32", "dates": "07. ágú – 14. ágú 2027", "tag": "Lau – Lau · 🎂 Þórhildur 10. ágú" },
-        { "id": "w33", "num": "Vika 33", "dates": "14. ágú – 21. ágú 2027", "tag": "Lau – Lau · 🏖️ Síðsumar" },
-        { "id": "w34", "num": "Vika 34", "dates": "21. ágú – 28. ágú 2027", "tag": "Lau – Lau · 🏖️ Lokavika sumarfrís" }
+        { "id": "leg1", "num": "Leggur 1: Óðinsvé", "dates": "17. feb – 19. feb 2027 (2 nætur)", "tag": "Mið–Fös · 🎓 SDU · 🏙️ H.C. Andersen hverfið" },
+        { "id": "leg2", "num": "Leggur 2: Rípe", "dates": "19. feb – 20. feb 2027 (1 nótt)", "tag": "Fös–Lau · 📦 IKEA varningur · 👩‍❤️‍👩 Heimsókn til vinkonu · 🏰 Ribe Domkirke" },
+        { "id": "leg3", "num": "Leggur 3: Álaborg", "dates": "20. feb – 22. feb 2027 (2 nætur)", "tag": "Lau–Mán · 🎓 AAU · 🌊 Limfjörðurinn & Utzon Center" },
+        { "id": "leg4", "num": "Leggur 4: Óðinsvé", "dates": "22. feb – 23. feb 2027 (1 nótt)", "tag": "Mán–Þri · 🍽️ Lokakvöld í Odense áður en flogið er heim" },
+        { "id": "car", "num": "🚗 Bílaleigubíll CPH", "dates": "17. feb – 23. feb 2027 (6 dagar)", "tag": "Kastrup (CPH) · ~935 km akstur · 📦 Pláss fyrir IKEA varning" }
     ]
 
     payload = {

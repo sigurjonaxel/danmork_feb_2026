@@ -1,540 +1,741 @@
 [
   {
-    "id": "36790419",
-    "title": "New villa with pool in a nature friendly area",
-    "isBooked": true,
-    "bookedLabel": "🎉 Bókað af fjölskyldunni!",
-    "propertyType": "Home in Köpingsvik",
-    "city": "Köpingsvik",
-    "region": "Svíþjóð (Öland)",
-    "country": "Svíþjóð",
+    "id": "hotel_comwell_odense_1",
+    "title": "Comwell H. C. Andersen Odense Dolce by Wyndham",
+    "category": "hotel",
+    "legId": "leg1",
+    "isTopPick": true,
+    "propertyType": "Hótel í Óðinsvéum (Legg 1 · 2 nætur)",
+    "city": "Óðinsvé (Odense)",
+    "region": "🏨 Óðinsvé · 17.–19. feb (2 nætur)",
+    "country": "Óðinsvé",
+    "address": "Claus Bergs Gade 7, 5000 Odense C",
     "specs": [
-      "6 beds",
-      "4 bedrooms"
+      "21.032 kr./nótt (Standard)",
+      "42.064 kr. alls (m/ sköttum)",
+      "Morgunverður +3.867 kr./nótt",
+      "⭐ 8,8 / 10 á Hotels.com"
     ],
-    "rating": "4.98",
-    "ratingLabel": "4.98 out of 5 average rating",
-    "priceEur": 3487,
-    "priceFormatted": "€3.487 – €4.438 / vika",
-    "photo": "https://a0.muscache.com/im/pictures/8eea17a1-7d73-456c-99b5-7da0b06e62d5.jpg?im_w=720",
-    "url": "https://www.airbnb.com/rooms/36790419",
-    "coordinates": {
-      "lat": 56.87619,
-      "lng": 16.71966
-    },
-    "isBudgetFit": false,
-    "availableWeeks": [
-      "w26",
-      "w32",
-      "w33",
-      "w34"
-    ],
-    "availabilitySummary": "Laust í 4 af 10 vikum á Airbnb (V26, V32, V33, V34)",
-    "pricePerNightEur": 498,
-    "pricesByWeek": {
-      "w26": 4332,
-      "w32": 4438,
-      "w33": 4438,
-      "w34": 3487
-    }
-  },
-  {
-    "id": "1626731935043177678",
-    "title": "5 star holiday home in glesborg",
-    "propertyType": "Villa in Glesborg",
-    "city": "Glesborg",
-    "region": "Danmörk (Jótland)",
-    "country": "Danmörk",
-    "specs": [
-      "12 beds",
-      "8 bedrooms"
-    ],
-    "rating": "Nýtt",
-    "ratingLabel": "",
-    "priceEur": 2770,
-    "priceFormatted": "€2.770 – €4.959 / vika",
-    "photo": "https://a0.muscache.com/im/pictures/hosting/Hosting-1626731935043177678/original/59a71a4f-66bc-4a48-9881-d1091a90245e.jpeg?im_w=720",
-    "url": "https://www.airbnb.com/rooms/1626731935043177678",
-    "coordinates": {
-      "lat": 56.51059723927931,
-      "lng": 10.611496631931587
-    },
+    "rating": "4.4",
+    "ratingLabel": "8,8 / 10 (Frábært · 137 umsagnir á Hotels.com)",
+    "priceEur": 42064,
+    "pricePerNightEur": 21032,
+    "priceFormatted": "21.032 kr./nótt (42.064 kr. alls m/ sköttum)",
+    "photo": "https://images.trvl-media.com/lodging/1000000/30000/23700/23648/29df898a.jpg?impolicy=fcrop&w=1200&h=800",
+    "url": "https://is.hotels.com/ho131670/comwell-h-c-andersen-odense-odense-danmork/?chkin=2027-02-17&chkout=2027-02-19&rm1=a2&regionId=2638",
+    "officialUrl": "https://www.comwell.com/hoteller/comwell-hotel-hc-andersen-odense",
     "isBudgetFit": true,
+    "suggestedBy": "Hotels.com (Raunverð 17.–19. feb)",
     "availableWeeks": [
-      "w25",
-      "w26",
-      "w27",
-      "w28",
-      "w29",
-      "w30",
-      "w31",
-      "w32",
-      "w33",
-      "w34"
+      "leg1",
+      "leg4"
     ],
-    "availabilitySummary": "Laust í 10 af 10 vikum á Airbnb (V25, V26, V27, V28, V29, V30, V31, V32, V33, V34 · Fös–Fös)",
-    "pricePerNightEur": 396,
+    "availabilitySummary": "Raunverð á is.hotels.com (með sköttum og gjöldum, endurgreiðanlegt að fullu fyrir 17. feb): Standard-herbergi 21.032 kr./nótt (42.064 kr. fyrir 2 nætur) · Deluxe-herbergi 26.687 kr./nótt (53.374 kr.) · Superior m/ morgunverði 30.098 kr./nótt (60.196 kr.).",
     "pricesByWeek": {
-      "w25": 2770,
-      "w26": 3018,
-      "w27": 4265,
-      "w28": 4959,
-      "w29": 4959,
-      "w30": 4959,
-      "w31": 4959,
-      "w32": 4421,
-      "w33": 4131,
-      "w34": 3018
+      "leg1": 42064,
+      "leg4": 21032
     }
   },
   {
-    "id": "1327640733143373140",
-    "title": "Ljusglimten",
-    "propertyType": "Home in Särö",
-    "city": "Särö",
-    "region": "Svíþjóð (Gautaborg)",
-    "country": "Svíþjóð",
+    "id": "hotel_city_odense",
+    "title": "City Hotel Nattergalen (Ókeypis bílastæði)",
+    "category": "hotel",
+    "legId": "leg1",
+    "isTopPick": true,
+    "propertyType": "Hótel í Óðinsvéum (Legg 1 & 4)",
+    "city": "Óðinsvé (Odense)",
+    "region": "🏨 Óðinsvé · 17.–19. feb (2 nætur)",
+    "country": "Óðinsvé",
+    "address": "Hans Tausens Gade 19, 5000 Odense C",
     "specs": [
-      "6 beds",
-      "6 bedrooms"
+      "15.702 kr./nótt",
+      "31.403 kr. alls (m/ sköttum)",
+      "🅿️ Ókeypis bílastæði",
+      "Við H.C. Andersen safnið"
     ],
-    "rating": "4.89",
-    "ratingLabel": "4.89 out of 5 average rating",
-    "priceEur": 3835,
-    "priceFormatted": "€3.835 / vika",
-    "photo": "https://a0.muscache.com/im/pictures/hosting/Hosting-1327640733143373140/original/93bce83c-e9b4-4787-a473-03529bfd1795.jpeg?im_w=720",
-    "url": "https://www.airbnb.com/rooms/1327640733143373140",
-    "coordinates": {
-      "lat": 57.51506,
-      "lng": 11.95076
-    },
-    "isBudgetFit": false,
-    "availableWeeks": [
-      "w29",
-      "w30",
-      "w31",
-      "w32",
-      "w33",
-      "w34"
-    ],
-    "availabilitySummary": "Laust í 6 af 10 vikum á Airbnb (V29, V30, V31, V32, V33, V34)",
-    "pricePerNightEur": 548,
-    "pricesByWeek": {
-      "w29": 3835,
-      "w30": 3835,
-      "w31": 3835,
-      "w32": 3835,
-      "w33": 3835,
-      "w34": 3835
-    }
-  },
-  {
-    "id": "1689999064583921885",
-    "title": "luxury retreat in nr. lyngby",
-    "propertyType": "Villa in Løkken",
-    "city": "Løkken",
-    "region": "Danmörk (Norður-Jótland)",
-    "country": "Danmörk",
-    "specs": [
-      "17 beds",
-      "10 bedrooms"
-    ],
-    "rating": "Nýtt",
-    "ratingLabel": "",
-    "priceEur": 4722,
-    "priceFormatted": "€4.722 – €8.249 / vika",
-    "photo": "https://a0.muscache.com/im/pictures/hosting/Hosting-1689999064583921885/original/074f5432-f92d-44cf-a184-aa77d3f3ec67.jpeg?im_w=720",
-    "url": "https://www.airbnb.com/rooms/1689999064583921885",
-    "coordinates": {
-      "lat": 57.426053828458244,
-      "lng": 9.767596212206824
-    },
-    "isBudgetFit": false,
-    "availableWeeks": [
-      "w26",
-      "w27",
-      "w29",
-      "w31",
-      "w32",
-      "w33",
-      "w34"
-    ],
-    "availabilitySummary": "Laust í 7 af 10 vikum á Airbnb (V26, V27, V29, V31, V32, V33, V34)",
-    "pricePerNightEur": 675,
-    "pricesByWeek": {
-      "w26": 4722,
-      "w27": 6587,
-      "w29": 8249,
-      "w31": 7482,
-      "w32": 7890,
-      "w33": 6338,
-      "w34": 4722
-    }
-  },
-  {
-    "id": "1735771750873059110",
-    "title": "The Cliff | 10ha Private Lakeside Estate",
-    "propertyType": "Villa in Vasared",
-    "city": "Vasared",
-    "region": "Svíþjóð (Borås)",
-    "country": "Svíþjóð",
-    "specs": [
-      "8 beds",
-      "7 bedrooms"
-    ],
-    "rating": "New",
-    "ratingLabel": "New place to stay",
-    "priceEur": 4736,
-    "priceFormatted": "€4.736 / vika",
-    "photo": "https://a0.muscache.com/im/pictures/hosting/Hosting-1735771750873059110/original/7f172c2d-af35-449b-b771-6e6def37413d.jpeg?im_w=720",
-    "url": "https://www.airbnb.com/rooms/1735771750873059110",
-    "coordinates": {
-      "lat": 57.75351523974993,
-      "lng": 13.37295621171522
-    },
-    "isBudgetFit": false,
-    "availableWeeks": [],
-    "availabilitySummary": "Ekki laust í sumar 2027 á Airbnb",
-    "pricePerNightEur": 677,
-    "pricesByWeek": {}
-  },
-  {
-    "id": "1090334101923876759",
-    "title": "luxury retreat by hasmark",
-    "propertyType": "Villa in Otterup",
-    "city": "Otterup",
-    "region": "Danmörk (Fjón)",
-    "country": "Danmörk",
-    "specs": [
-      "14 beds",
-      "6 bedrooms"
-    ],
-    "rating": "5.0",
-    "ratingLabel": "5.0 out of 5 average rating",
-    "priceEur": 2924,
-    "priceFormatted": "€2.924 – €5.660 / vika",
-    "photo": "https://a0.muscache.com/im/pictures/hosting/Hosting-1090334101923876759/original/6efa88ad-7fcb-49b3-a4df-31c35cd6a089.jpeg?im_w=720",
-    "url": "https://www.airbnb.com/rooms/1090334101923876759",
-    "coordinates": {
-      "lat": 55.56264,
-      "lng": 10.44925
-    },
+    "rating": "4.1",
+    "ratingLabel": "8,2 / 10 á Hotels.com",
+    "priceEur": 31403,
+    "pricePerNightEur": 15702,
+    "priceFormatted": "15.702 kr./nótt (31.403 kr. alls m/ sköttum)",
+    "photo": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=900&auto=format&fit=crop&q=80",
+    "url": "https://is.hotels.com/ho329431/city-hotel-nattergalen-odense-danmork/?chkin=2027-02-17&chkout=2027-02-19&rm1=a2&regionId=2638",
+    "officialUrl": "https://cityhotelodense.dk/",
     "isBudgetFit": true,
+    "suggestedBy": "Hotels.com (Opið í flipa hjá þér)",
     "availableWeeks": [
-      "w27",
-      "w28",
-      "w29",
-      "w30",
-      "w31",
-      "w32",
-      "w33",
-      "w34"
+      "leg1",
+      "leg4"
     ],
-    "availabilitySummary": "Laust í 8 af 10 vikum á Airbnb (V27, V28, V29, V30, V31, V32, V33, V34 · Fös–Fös)",
-    "pricePerNightEur": 418,
+    "availabilitySummary": "Raunverð á is.hotels.com (með sköttum og gjöldum): 15.702 kr./nótt (31.403 kr. fyrir 2 nætur 17.–19. feb). Staðsett í hjarta Óðinsvéa með ókeypis bílastæði og þakverönd.",
     "pricesByWeek": {
-      "w27": 4829,
-      "w28": 5535,
-      "w29": 5660,
-      "w30": 5660,
-      "w31": 5660,
-      "w32": 4717,
-      "w33": 4574,
-      "w34": 2924
+      "leg1": 31403,
+      "leg4": 15702
     }
   },
   {
-    "id": "683762981373209125",
-    "title": "Wonderful villa on Österlen, 150 meters from the sea",
-    "propertyType": "Villa in Borrby",
-    "city": "Borrby",
-    "region": "Svíþjóð (Skáni / Österlen)",
-    "country": "Svíþjóð",
+    "id": "hotel_amalie_bb_odense",
+    "title": "Amalie Bed and Breakfast & Apartments (Ókeypis bílastæði)",
+    "category": "hotel",
+    "legId": "leg1",
+    "isTopPick": true,
+    "propertyType": "Gistiheimili & Íbúðir í Óðinsvéum (Legg 1 & 4)",
+    "city": "Óðinsvé (Odense)",
+    "region": "🏨 Óðinsvé · 17.–19. feb (2 nætur)",
+    "country": "Óðinsvé",
+    "address": "Rugaardsvej 23, 5000 Odense C",
     "specs": [
-      "16 beds",
-      "7 bedrooms"
+      "10.946 kr./nótt",
+      "21.892 kr. alls (m/ sköttum)",
+      "🅿️ Ókeypis bílastæði",
+      "Mjög hagkvæmt á Hotels.com"
     ],
-    "rating": "4.92",
-    "ratingLabel": "4.92 out of 5 average rating",
-    "priceEur": 4528,
-    "priceFormatted": "€4.528 / vika",
-    "photo": "https://a0.muscache.com/im/pictures/hosting/Hosting-683762981373209125/original/37848e97-b05c-465b-b8fa-8314c2b7749e.jpeg?im_w=720",
-    "url": "https://www.airbnb.com/rooms/683762981373209125",
-    "coordinates": {
-      "lat": 55.4400819,
-      "lng": 14.2375684
-    },
-    "isBudgetFit": false,
-    "availableWeeks": [],
-    "availabilitySummary": "Ekki laust í sumar 2027 á Airbnb",
-    "pricePerNightEur": 647,
-    "pricesByWeek": {}
-  },
-  {
-    "id": "1125419478579319668",
-    "title": "Villa M - steps from the beach at Österlen",
-    "propertyType": "Villa in Borrby",
-    "city": "Borrby",
-    "region": "Svíþjóð (Skáni / Österlen)",
-    "country": "Svíþjóð",
-    "specs": [
-      "16 beds",
-      "7 bedrooms"
-    ],
-    "rating": "Nýtt",
-    "ratingLabel": "",
-    "priceEur": 5686,
-    "priceFormatted": "€5.686 / vika",
-    "photo": "https://a0.muscache.com/im/pictures/miso/Hosting-1125419478579319668/original/21707eb1-6e6a-4a77-8c16-a6c0ad140e3b.jpeg?im_w=720",
-    "url": "https://www.airbnb.com/rooms/1125419478579319668",
-    "coordinates": {
-      "lat": 55.440062556509666,
-      "lng": 14.238186168786617
-    },
-    "isBudgetFit": false,
-    "availableWeeks": [
-      "w29",
-      "w30",
-      "w32",
-      "w33"
-    ],
-    "availabilitySummary": "Laust í 4 af 10 vikum á Airbnb (V29, V30, V32, V33)",
-    "pricePerNightEur": 812,
-    "pricesByWeek": {
-      "w29": 5686,
-      "w30": 5686,
-      "w32": 5686,
-      "w33": 5686
-    }
-  },
-  {
-    "id": "1619593928568816076",
-    "title": "Vacation home by the beach in Kyhlstrand",
-    "propertyType": "Home in Borrby",
-    "city": "Borrby",
-    "region": "Svíþjóð (Skáni / Österlen)",
-    "country": "Svíþjóð",
-    "specs": [
-      "13 beds",
-      "7 bedrooms"
-    ],
-    "rating": "Nýtt",
-    "ratingLabel": "",
-    "priceEur": 5705,
-    "priceFormatted": "€5.705 – €6.747 / vika",
-    "photo": "https://a0.muscache.com/im/pictures/hosting/Hosting-1619593928568816076/original/2a18c84f-6859-4843-938d-b791f9917a5c.jpeg?im_w=720",
-    "url": "https://www.airbnb.com/rooms/1619593928568816076",
-    "coordinates": {
-      "lat": 55.44000936873349,
-      "lng": 14.239736579578762
-    },
-    "isBudgetFit": false,
-    "availableWeeks": [
-      "w32",
-      "w33"
-    ],
-    "availabilitySummary": "Laust í 2 af 10 vikum á Airbnb (V32, V33)",
-    "pricePerNightEur": 815,
-    "pricesByWeek": {
-      "w32": 6747,
-      "w33": 5705
-    }
-  },
-  {
-    "id": "7838623",
-    "title": "Strandhuset - The Beachhouse, ca 200m to the beach",
-    "propertyType": "Home in Borrby",
-    "city": "Borrby",
-    "region": "Svíþjóð (Skáni / Österlen)",
-    "country": "Svíþjóð",
-    "specs": [
-      "16 beds",
-      "7 bedrooms"
-    ],
-    "rating": "4.79",
-    "ratingLabel": "4.79 out of 5 average rating",
-    "priceEur": 4284,
-    "priceFormatted": "€4.284 / vika",
-    "photo": "https://a0.muscache.com/im/pictures/99804511/25f7406a_original.jpg?im_w=720",
-    "url": "https://www.airbnb.com/rooms/7838623",
-    "coordinates": {
-      "lat": 55.43968,
-      "lng": 14.2343
-    },
-    "isBudgetFit": false,
-    "availableWeeks": [
-      "w26",
-      "w27",
-      "w31",
-      "w32",
-      "w33"
-    ],
-    "availabilitySummary": "Laust í 5 af 10 vikum á Airbnb (V26, V27, V31, V32, V33)",
-    "pricePerNightEur": 612,
-    "pricesByWeek": {
-      "w26": 4284,
-      "w27": 4284,
-      "w31": 4284,
-      "w32": 4284,
-      "w33": 4284
-    }
-  },
-  {
-    "id": "959289088240377688",
-    "title": "Löderup: 500m² Villa m. Spa, gufubaði, rækt, billjard & padel golf",
-    "propertyType": "Home in Löderup",
-    "city": "Löderup",
-    "region": "Svíþjóð (Skáni / Österlen)",
-    "country": "Svíþjóð",
-    "specs": [
-      "24 gestir",
-      "9 svefnherbergi",
-      "22 rúm",
-      "5 baðherbergi"
-    ],
-    "rating": "4.78",
-    "ratingLabel": "4.78 out of 5 average rating",
-    "priceEur": 6326,
-    "priceFormatted": "€6.326 / vika",
-    "photo": "https://a0.muscache.com/im/pictures/hosting/Hosting-959289088240377688/original/98d155be-a382-4c93-a279-fdabd2785182.jpeg",
-    "url": "https://www.airbnb.com/rooms/959289088240377688",
-    "coordinates": {
-      "lat": 55.399716099266826,
-      "lng": 14.060958358197023
-    },
-    "isBudgetFit": false,
-    "availableWeeks": [
-      "w25",
-      "w26",
-      "w27",
-      "w28",
-      "w29",
-      "w30",
-      "w32"
-    ],
-    "availabilitySummary": "Laust í 7 af 10 vikum á Airbnb (V25, V26, V27, V28, V29, V30, V32)",
-    "pricePerNightEur": 904,
-    "pricesByWeek": {
-      "w25": 6326,
-      "w26": 6326,
-      "w27": 6326,
-      "w28": 6326,
-      "w29": 6326,
-      "w30": 6326,
-      "w32": 6326
-    }
-  },
-  {
-    "id": "1671670810787993416",
-    "title": "Modern farm with pool, sauna & nice landscape views",
-    "propertyType": "Farm stay in Svedala",
-    "city": "Svedala",
-    "region": "Svíþjóð (Skáni / Malmö)",
-    "country": "Svíþjóð",
-    "specs": [
-      "9 beds",
-      "5 bedrooms"
-    ],
-    "rating": "5.0",
-    "ratingLabel": "5.0 out of 5 average rating",
-    "priceEur": 5318,
-    "priceFormatted": "€5.318 / vika",
-    "photo": "https://a0.muscache.com/im/pictures/hosting/Hosting-1671670810787993416/original/e13da2b4-021b-44b4-9170-fdf8bc63655b.jpeg?im_w=720",
-    "url": "https://www.airbnb.com/rooms/1671670810787993416",
-    "coordinates": {
-      "lat": 55.51186,
-      "lng": 13.1367
-    },
-    "isBudgetFit": false,
-    "availableWeeks": [
-      "w29",
-      "w30"
-    ],
-    "availabilitySummary": "Laust í 2 af 10 vikum á Airbnb (V29 [hliðrað um 1 dag: 18.–25. júl], V30 [24.–31. júl])",
-    "pricePerNightEur": 760,
-    "pricesByWeek": {
-      "w29": 5318,
-      "w30": 5318
-    }
-  },
-  {
-    "id": "1767296663427055904",
-    "title": "Brantevik: Glæsilegt strandsetur m. sér sundlaugahúsi & sauna við sjóinn",
-    "propertyType": "Lúxus gistiheimili í Brantevik",
-    "city": "Brantevik",
-    "region": "Svíþjóð (Skáni / Österlen)",
-    "country": "Svíþjóð",
-    "specs": [
-      "14 gestir",
-      "7 svefnherbergi",
-      "7 rúm",
-      "5 baðherbergi"
-    ],
-    "rating": "Nýtt",
-    "ratingLabel": "Glænýtt á Airbnb (byggt 2017)",
-    "priceEur": 2444,
-    "priceFormatted": "€2.444 – €3.332 / vika",
-    "photo": "https://a0.muscache.com/im/pictures/hosting/Hosting-1767296663427055904/original/3c005a37-d3db-4ed7-9fad-708f7536ff92.jpeg?im_w=1200",
-    "url": "https://www.airbnb.com/rooms/1767296663427055904",
-    "coordinates": {
-      "lat": 55.5204,
-      "lng": 14.3466
-    },
+    "rating": "4.4",
+    "ratingLabel": "8,8 / 10 á Hotels.com",
+    "priceEur": 21892,
+    "pricePerNightEur": 10946,
+    "priceFormatted": "10.946 kr./nótt (21.892 kr. alls m/ sköttum)",
+    "photo": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=900&auto=format&fit=crop&q=80",
+    "url": "https://is.hotels.com/ho498317/amalie-bed-and-breakfast-apartments-odense-danmork/?chkin=2027-02-17&chkout=2027-02-19&rm1=a2&regionId=2638",
+    "officialUrl": "https://www.amaliebb.dk/",
     "isBudgetFit": true,
-    "suggestedBy": "Gemini",
+    "suggestedBy": "Hotels.com (Opið í flipa hjá þér)",
     "availableWeeks": [
-      "w26",
-      "w33"
+      "leg1",
+      "leg4"
     ],
-    "availabilitySummary": "Laust í 2 af 10 vikum á Airbnb (V26, V33)",
-    "pricePerNightEur": 349,
+    "availabilitySummary": "Raunverð á is.hotels.com (með sköttum og gjöldum): 10.946 kr./nótt (21.892 kr. fyrir 2 nætur 17.–19. feb). Ókeypis einkabílastæði við húsið og stutt ganga í miðbæ Óðinsvéa.",
     "pricesByWeek": {
-      "w26": 3332,
-      "w33": 2444
+      "leg1": 21892,
+      "leg4": 10946
     }
   },
   {
-    "id": "1236701408674132678",
-    "title": "Rømø: 5-Stjörnu lúxusvilla m. sundlaug, heitum potti & gufubaði",
-    "propertyType": "Lúxusvilla á Rømø",
-    "city": "Rømø",
-    "region": "Danmörk (Suður-Jótland)",
-    "country": "Danmörk",
+    "id": "hotel_odeon_odense",
+    "title": "Hotel Odeon (Vistað í Hotels.com ferðinni þinni)",
+    "category": "hotel",
+    "legId": "leg1",
+    "isTopPick": true,
+    "propertyType": "4-stjörnu hótel í Óðinsvéum (Legg 1 & 4)",
+    "city": "Óðinsvé (Odense)",
+    "region": "🏨 Óðinsvé · 17.–19. feb (2 nætur)",
+    "country": "Óðinsvé",
+    "address": "Odeons Kvarter 11, 5000 Odense C",
     "specs": [
-      "16 gestir",
-      "8 svefnherbergi",
-      "16 rúm",
-      "4 baðherbergi"
+      "25.900 kr./nótt (m/ sköttum)",
+      "51.800 kr. (2 nætur)",
+      "Odeons Kvarter 11",
+      "Lúxus & bílakjallari undir hóteli"
     ],
-    "rating": "5.0",
-    "ratingLabel": "5.0 af 5 (fullkomin einkunn)",
-    "priceEur": 3174,
-    "priceFormatted": "€3.174 – €6.197 / vika",
-    "photo": "https://a0.muscache.com/im/pictures/hosting/Hosting-1236701408674132678/original/faf2c635-372e-4768-b500-8fffef85e485.jpeg?im_w=1200",
-    "url": "https://www.airbnb.com/rooms/1236701408674132678",
-    "coordinates": {
-      "lat": 55.13134,
-      "lng": 8.54576
-    },
+    "rating": "4.6",
+    "ratingLabel": "9,2 / 10 á Hotels.com",
+    "priceEur": 51800,
+    "pricePerNightEur": 25900,
+    "priceFormatted": "25.900 kr./nótt (51.800 kr. alls m/ sköttum)",
+    "photo": "https://images.trvl-media.com/lodging/24000000/23490000/23486100/23486015/276bf6f9.jpg?impolicy=fcrop&w=1200&h=800",
+    "url": "https://is.hotels.com/ho752552480/hotel-odeon-odense-danmork/?chkin=2027-02-17&chkout=2027-02-19&rm1=a2&regionId=2638",
+    "officialUrl": "https://hotelodeon.dk/",
     "isBudgetFit": false,
-    "suggestedBy": "Gemini",
+    "suggestedBy": "Hotels.com (Vistað í Trips hjá þér)",
     "availableWeeks": [
-      "w26",
-      "w27",
-      "w28",
-      "w29",
-      "w30",
-      "w33"
+      "leg1",
+      "leg4"
     ],
-    "availabilitySummary": "Laust í 6 af 10 vikum á Airbnb (V26, V27, V28, V29, V30, V33 · Fös–Fös)",
-    "pricePerNightEur": 453,
+    "availabilitySummary": "Vistað í Hotels.com ferðalistanum þínum (is.hotels.com/trips/egti-5LQ-58W-B1BF) · Eitt glæsilegasta hótel Óðinsvéa í H.C. Andersen hverfinu (við hlið Comwell) með frábærum lífrænum morgunverði og stórum bílakjallara.",
     "pricesByWeek": {
-      "w26": 3174,
-      "w27": 4802,
-      "w28": 5884,
-      "w29": 5896,
-      "w30": 6197,
-      "w33": 4955
+      "leg1": 51800,
+      "leg4": 25900
+    }
+  },
+  {
+    "id": "hotel_first_grand_odense",
+    "title": "Milling Hotel Windsor / First Hotel Grand Odense",
+    "category": "hotel",
+    "legId": "leg1",
+    "propertyType": "Hótel í miðbæ Óðinsvéa (Legg 1 & 4)",
+    "city": "Óðinsvé (Odense)",
+    "region": "🏨 Óðinsvé · 17.–19. feb (2 nætur)",
+    "country": "Óðinsvé",
+    "address": "Vindegade 45 / Jernbanegade 18, 5000 Odense C",
+    "specs": [
+      "19.450 kr./nótt (m/ sköttum)",
+      "38.900 kr. (2 nætur)",
+      "Morgunverður & síðdegiskaffi innifalið",
+      "Klassískt í miðbænum"
+    ],
+    "rating": "4.2",
+    "ratingLabel": "8,4 / 10 á Hotels.com",
+    "priceEur": 38900,
+    "pricePerNightEur": 19450,
+    "priceFormatted": "19.450 kr./nótt (38.900 kr. alls m/ sköttum)",
+    "photo": "https://images.trvl-media.com/lodging/1000000/30000/21200/21154/3f6a7c2a.jpg?impolicy=fcrop&w=1200&h=800",
+    "url": "https://is.hotels.com/Hotel-Search?destination=Milling%20Hotel%20Odense&startDate=2027-02-17&endDate=2027-02-19&adults=2",
+    "officialUrl": "https://millinghotels.dk/",
+    "isBudgetFit": true,
+    "suggestedBy": "Hotels.com",
+    "availableWeeks": [
+      "leg1",
+      "leg4"
+    ],
+    "availabilitySummary": "Milling hótelin í Óðinsvéum (Windsor, Plaza, Ansgar, Mini 11 & Mini 19) bjóða morgunverð og léttar veitingar innifaldar og eru í göngufæri við allt í miðbænum.",
+    "pricesByWeek": {
+      "leg1": 38900,
+      "leg4": 19450
+    }
+  },
+  {
+    "id": "hotel_dagmar_ribe",
+    "title": "Hotel Dagmar – Elsta hótel Danmerkur (frá 1581)",
+    "category": "hotel",
+    "legId": "leg2",
+    "isTopPick": true,
+    "propertyType": "Sögufrægt hótel í Rípe (Legg 2 · 1 nótt)",
+    "city": "Rípe (Ribe)",
+    "region": "🏰 Rípe · 19.–20. feb (1 nótt)",
+    "country": "Rípe",
+    "address": "Torvet 1, 6760 Ribe",
+    "specs": [
+      "23.900 kr./nótt (m/ sköttum)",
+      "Torvet 1 (beint við dómkirkjuna)",
+      "Byggt 1581 · Rómantískt",
+      "⭐ 8,6 / 10 á Hotels.com"
+    ],
+    "rating": "4.3",
+    "ratingLabel": "8,6 / 10 á Hotels.com",
+    "priceEur": 23900,
+    "pricePerNightEur": 23900,
+    "priceFormatted": "23.900 kr./nótt (m/ sköttum)",
+    "photo": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=900&auto=format&fit=crop&q=80",
+    "url": "https://is.hotels.com/Hotel-Search?destination=Hotel%20Dagmar%20Ribe&startDate=2027-02-19&endDate=2027-02-20&adults=2",
+    "officialUrl": "https://www.hoteldagmar.dk/",
+    "isBudgetFit": true,
+    "suggestedBy": "Hotels.com & Gemini",
+    "availableWeeks": [
+      "leg2"
+    ],
+    "availabilitySummary": "Leggur 2 (Fös 19. – Lau 20. feb, 1 nótt: ~23.900 kr. m/ sköttum á Hotels.com; var 17.500 kr. án skatta í Gemini skjali) · Elsta og frægasta hótel Danmerkur beint á aðaltorginu gegnt Ribe Domkirke.",
+    "pricesByWeek": {
+      "leg2": 23900
+    }
+  },
+  {
+    "id": "hotel_weis_stue_ribe",
+    "title": "Den Gamle Arrest / Weis Stue",
+    "category": "hotel",
+    "legId": "leg2",
+    "isTopPick": true,
+    "propertyType": "Söguleg gisting í Rípe (Legg 2 · 1 nótt)",
+    "city": "Rípe (Ribe)",
+    "region": "🏰 Rípe · 19.–20. feb (1 nótt)",
+    "country": "Rípe",
+    "address": "Torvet 2, 6760 Ribe",
+    "specs": [
+      "14.900 kr./nótt (m/ sköttum)",
+      "Torvet 2 (við Dómkirkjutorgið)",
+      "Einstök upplifun í miðbæ Rípe",
+      "⭐ 8,8 / 10 á Hotels.com"
+    ],
+    "rating": "4.4",
+    "ratingLabel": "8,8 / 10 á Hotels.com",
+    "priceEur": 14900,
+    "pricePerNightEur": 14900,
+    "priceFormatted": "14.900 kr./nótt (m/ sköttum)",
+    "photo": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=900&auto=format&fit=crop&q=80",
+    "url": "https://is.hotels.com/Hotel-Search?destination=Ribe%2C%20Denmark&startDate=2027-02-19&endDate=2027-02-20&adults=2",
+    "officialUrl": "https://weis-stue.dk/",
+    "isBudgetFit": true,
+    "suggestedBy": "Hotels.com & Gemini",
+    "availableWeeks": [
+      "leg2"
+    ],
+    "availabilitySummary": "Leggur 2 (Fös 19. – Lau 20. feb, 1 nótt: ~14.900 kr. m/ sköttum) · Einstaklega sjarmerandi og sögufrægur gististaður beint á torginu í Rípe.",
+    "pricesByWeek": {
+      "leg2": 14900
+    }
+  },
+  {
+    "id": "hotel_ribe_city",
+    "title": "Hotel Ribe",
+    "category": "hotel",
+    "legId": "leg2",
+    "propertyType": "Hótel í Rípe (Legg 2 · 1 nótt)",
+    "city": "Rípe (Ribe)",
+    "region": "🏰 Rípe · 19.–20. feb (1 nótt)",
+    "country": "Rípe",
+    "address": "Sønderportsgade 22, 6760 Ribe",
+    "specs": [
+      "13.500 kr./nótt (m/ sköttum)",
+      "Sønderportsgade 22, Ribe",
+      "Hagkvæmt & notalegt",
+      "Stutt í miðbæinn"
+    ],
+    "rating": "4.0",
+    "ratingLabel": "8,0 / 10 á Hotels.com",
+    "priceEur": 13500,
+    "pricePerNightEur": 13500,
+    "priceFormatted": "13.500 kr./nótt (m/ sköttum)",
+    "photo": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=900&auto=format&fit=crop&q=80",
+    "url": "https://is.hotels.com/Hotel-Search?destination=Hotel%20Ribe&startDate=2027-02-19&endDate=2027-02-20&adults=2",
+    "officialUrl": "https://hotelribe.dk/",
+    "isBudgetFit": true,
+    "suggestedBy": "Hotels.com & Gemini",
+    "availableWeeks": [
+      "leg2"
+    ],
+    "availabilitySummary": "Leggur 2 (Fös 19. – Lau 20. feb, 1 nótt: ~13.500 kr. m/ sköttum) · Gott og hagkvæmt hótel í göngufæri við gamla bæinn í Rípe.",
+    "pricesByWeek": {
+      "leg2": 13500
+    }
+  },
+  {
+    "id": "hotel_backhaus_ribe",
+    "title": "Hotel & Restaurant Backhaus Ribe",
+    "category": "hotel",
+    "legId": "leg2",
+    "propertyType": "Hótel & Veitingastaður í Rípe (Legg 2 · 1 nótt)",
+    "city": "Rípe (Ribe)",
+    "region": "🏰 Rípe · 19.–20. feb (1 nótt)",
+    "country": "Rípe",
+    "address": "Grydegade 12, 6760 Ribe",
+    "specs": [
+      "16.400 kr./nótt (m/ sköttum)",
+      "Grydegade 12, Ribe",
+      "Góður veitingastaður",
+      "Miðsvæðis í gamla bænum"
+    ],
+    "rating": "4.1",
+    "ratingLabel": "8,2 / 10 á Hotels.com",
+    "priceEur": 16400,
+    "pricePerNightEur": 16400,
+    "priceFormatted": "16.400 kr./nótt (m/ sköttum)",
+    "photo": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=900&auto=format&fit=crop&q=80",
+    "url": "https://is.hotels.com/Hotel-Search?destination=Ribe%2C%20Denmark&startDate=2027-02-19&endDate=2027-02-20&adults=2",
+    "officialUrl": "https://www.backhaus.dk/",
+    "isBudgetFit": true,
+    "suggestedBy": "Hotels.com & Gemini",
+    "availableWeeks": [
+      "leg2"
+    ],
+    "availabilitySummary": "Leggur 2 (Fös 19. – Lau 20. feb, 1 nótt: ~16.400 kr. m/ sköttum) · Notalegt hótel og veitingastaður í sögulega miðbænum í Rípe.",
+    "pricesByWeek": {
+      "leg2": 16400
+    }
+  },
+  {
+    "id": "hotel_pier5_aalborg",
+    "title": "Pier 5 Hotel – Við Limfjörðinn & Utzon Center",
+    "category": "hotel",
+    "legId": "leg3",
+    "isTopPick": true,
+    "propertyType": "Design-hótel í Álaborg (Legg 3 · 2 nætur)",
+    "city": "Álaborg (Aalborg)",
+    "region": "🌊 Álaborg · 20.–22. feb (2 nætur)",
+    "country": "Álaborg",
+    "address": "Rendsburggade 5, 9000 Aalborg",
+    "specs": [
+      "19.800 kr./nótt (m/ sköttum)",
+      "39.600 kr. (2 nætur)",
+      "Rendsburggade 5 (Hafnarbakkinn)",
+      "⭐ 9,0 / 10 á Hotels.com"
+    ],
+    "rating": "4.5",
+    "ratingLabel": "9,0 / 10 á Hotels.com",
+    "priceEur": 39600,
+    "pricePerNightEur": 19800,
+    "priceFormatted": "19.800 kr./nótt (39.600 kr. alls m/ sköttum)",
+    "photo": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=900&auto=format&fit=crop&q=80",
+    "url": "https://is.hotels.com/Hotel-Search?destination=Pier%205%20Hotel%20Aalborg&startDate=2027-02-20&endDate=2027-02-22&adults=2",
+    "officialUrl": "https://pier5.dk/",
+    "isBudgetFit": true,
+    "suggestedBy": "Hotels.com & Gemini",
+    "availableWeeks": [
+      "leg3"
+    ],
+    "availabilitySummary": "Leggur 3 (Lau 20. – Mán 22. feb, 2 nætur: ~39.600 kr. m/ sköttum á Hotels.com; var 26.924 kr. án skatta í Gemini skjali) · Glæsilegt hönnunarhótel beint á nýja hafnarbakkanum við Limfjörðinn og Utzon Center.",
+    "pricesByWeek": {
+      "leg3": 39600
+    }
+  },
+  {
+    "id": "hotel_radisson_limfjord_aalborg",
+    "title": "Radisson Blu Limfjord Hotel Aalborg",
+    "category": "hotel",
+    "legId": "leg3",
+    "isTopPick": true,
+    "propertyType": "4-stjörnu hótel í Álaborg (Legg 3 · 2 nætur)",
+    "city": "Álaborg (Aalborg)",
+    "region": "🌊 Álaborg · 20.–22. feb (2 nætur)",
+    "country": "Álaborg",
+    "address": "Ved Stranden 14-16, 9000 Aalborg",
+    "specs": [
+      "18.900 kr./nótt (m/ sköttum)",
+      "37.800 kr. (2 nætur)",
+      "Ved Stranden 14 (miðbær & höfn)",
+      "⭐ 8,2 / 10 á Hotels.com"
+    ],
+    "rating": "4.1",
+    "ratingLabel": "8,2 / 10 á Hotels.com",
+    "priceEur": 37800,
+    "pricePerNightEur": 18900,
+    "priceFormatted": "18.900 kr./nótt (37.800 kr. alls m/ sköttum)",
+    "photo": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=900&auto=format&fit=crop&q=80",
+    "url": "https://is.hotels.com/Hotel-Search?destination=Radisson%20Blu%20Limfjord%20Hotel%20Aalborg&startDate=2027-02-20&endDate=2027-02-22&adults=2",
+    "officialUrl": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-aalborg",
+    "isBudgetFit": true,
+    "suggestedBy": "Hotels.com & Gemini",
+    "availableWeeks": [
+      "leg3"
+    ],
+    "availabilitySummary": "Leggur 3 (Lau 20. – Mán 22. feb, 2 nætur: ~37.800 kr. m/ sköttum) · Klassískt 4-stjörnu hótel við Limfjörðinn og miðbæ Álaborgar.",
+    "pricesByWeek": {
+      "leg3": 37800
+    }
+  },
+  {
+    "id": "hotel_kompas_aalborg",
+    "title": "KOMPAS Hotel Aalborg",
+    "category": "hotel",
+    "legId": "leg3",
+    "propertyType": "Hótel í Álaborg (Legg 3 · 2 nætur)",
+    "city": "Álaborg (Aalborg)",
+    "region": "🌊 Álaborg · 20.–22. feb (2 nætur)",
+    "country": "Álaborg",
+    "address": "Østerbro 27, 9000 Aalborg",
+    "specs": [
+      "17.200 kr./nótt (m/ sköttum)",
+      "34.400 kr. (2 nætur)",
+      "Østerbro 27 (við Musikkens Hus)",
+      "⭐ 8,6 / 10 á Hotels.com"
+    ],
+    "rating": "4.3",
+    "ratingLabel": "8,6 / 10 á Hotels.com",
+    "priceEur": 34400,
+    "pricePerNightEur": 17200,
+    "priceFormatted": "17.200 kr./nótt (34.400 kr. alls m/ sköttum)",
+    "photo": "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?w=900&auto=format&fit=crop&q=80",
+    "url": "https://is.hotels.com/Hotel-Search?destination=KOMPAS%20Hotel%20Aalborg&startDate=2027-02-20&endDate=2027-02-22&adults=2",
+    "officialUrl": "https://kompashotel.dk/",
+    "isBudgetFit": true,
+    "suggestedBy": "Hotels.com & Gemini",
+    "availableWeeks": [
+      "leg3"
+    ],
+    "availabilitySummary": "Leggur 3 (Lau 20. – Mán 22. feb, 2 nætur: ~34.400 kr. m/ sköttum) · Eitt elsta og vinsælasta sjómannahótel Álaborgar, nýuppgert við Nordkraft og Musikkens Hus.",
+    "pricesByWeek": {
+      "leg3": 34400
+    }
+  },
+  {
+    "id": "hotel_bb_aalborg",
+    "title": "B&B HOTEL Aalborg",
+    "category": "hotel",
+    "legId": "leg3",
+    "propertyType": "Hótel í Álaborg (Legg 3 · 2 nætur)",
+    "city": "Álaborg (Aalborg)",
+    "region": "🌊 Álaborg · 20.–22. feb (2 nætur)",
+    "country": "Álaborg",
+    "address": "Vestre Havnepromenade 7, 9000 Aalborg",
+    "specs": [
+      "13.500 kr./nótt (m/ sköttum)",
+      "27.000 kr. (2 nætur)",
+      "Vestre Havnepromenade 7",
+      "⭐ 9,0 / 10 · Hagkvæmt & nýlegt"
+    ],
+    "rating": "4.5",
+    "ratingLabel": "9,0 / 10 á Hotels.com",
+    "priceEur": 27000,
+    "pricePerNightEur": 13500,
+    "priceFormatted": "13.500 kr./nótt (27.000 kr. alls m/ sköttum)",
+    "photo": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=900&auto=format&fit=crop&q=80",
+    "url": "https://is.hotels.com/Hotel-Search?destination=B%26B%20HOTEL%20Aalborg&startDate=2027-02-20&endDate=2027-02-22&adults=2",
+    "officialUrl": "https://www.hotel-bb.com/",
+    "isBudgetFit": true,
+    "suggestedBy": "Hotels.com & Gemini",
+    "availableWeeks": [
+      "leg3"
+    ],
+    "availabilitySummary": "Leggur 3 (Lau 20. – Mán 22. feb, 2 nætur: ~27.000 kr. m/ sköttum) · Nýlegt, hreinlegt og mjög hagkvæmt hótel við vestari hafnargönguna (Vestre Havnepromenade).",
+    "pricesByWeek": {
+      "leg3": 27000
+    }
+  },
+  {
+    "id": "hotel_comwell_odense_4",
+    "title": "Comwell H. C. Andersen Odense (Síðasta nóttin 22.–23. feb)",
+    "category": "hotel",
+    "legId": "leg4",
+    "isTopPick": true,
+    "propertyType": "Hótel í Óðinsvéum (Legg 4 · 1 nótt)",
+    "city": "Óðinsvé (Odense)",
+    "region": "🏨 Óðinsvé · 22.–23. feb (1 nótt)",
+    "country": "Óðinsvé",
+    "address": "Claus Bergs Gade 7, 5000 Odense C",
+    "specs": [
+      "21.032 kr./nótt (m/ sköttum)",
+      "Claus Bergs Gade 7, Odense",
+      "Þægilegt fyrir heimferð á CPH",
+      "⭐ 8,8 / 10 á Hotels.com"
+    ],
+    "rating": "4.4",
+    "ratingLabel": "8,8 / 10 (Frábært · 137 umsagnir á Hotels.com)",
+    "priceEur": 21032,
+    "pricePerNightEur": 21032,
+    "priceFormatted": "21.032 kr./nótt (m/ sköttum)",
+    "photo": "https://images.trvl-media.com/lodging/1000000/30000/23700/23648/29df898a.jpg?impolicy=fcrop&w=1200&h=800",
+    "url": "https://is.hotels.com/ho131670/comwell-h-c-andersen-odense-odense-danmork/?chkin=2027-02-22&chkout=2027-02-23&rm1=a2&regionId=2638",
+    "officialUrl": "https://www.comwell.com/hoteller/comwell-hotel-hc-andersen-odense",
+    "isBudgetFit": true,
+    "suggestedBy": "Hotels.com (Raunverð)",
+    "availableWeeks": [
+      "leg4",
+      "leg1"
+    ],
+    "availabilitySummary": "Leggur 4 (Mán 22. – Þri 23. feb, 1 nótt: 21.032 kr. m/ sköttum á is.hotels.com) · Frábær lokanótt í Óðinsvéum áður en ekið er yfir Stóra-Beltisbrúna til Kastrup (CPH) á þriðjudeginum.",
+    "pricesByWeek": {
+      "leg4": 21032,
+      "leg1": 42064
+    }
+  },
+  {
+    "id": "hotel_cabinn_odense_4",
+    "title": "CABINN Hotel Odense",
+    "category": "hotel",
+    "legId": "leg4",
+    "propertyType": "Hótel í Óðinsvéum (Legg 4 · 1 nótt)",
+    "city": "Óðinsvé (Odense)",
+    "region": "🏨 Óðinsvé · 22.–23. feb (1 nótt)",
+    "country": "Óðinsvé",
+    "address": "Østre Stationsvej 7-9, 5000 Odense C",
+    "specs": [
+      "11.500 kr./nótt (m/ sköttum)",
+      "Við lestarstöðina í Odense",
+      "Hagkvæm gisting fyrir heimflug",
+      "Hotels.com"
+    ],
+    "rating": "3.5",
+    "ratingLabel": "7,0 / 10 á Hotels.com",
+    "priceEur": 11500,
+    "pricePerNightEur": 11500,
+    "priceFormatted": "11.500 kr./nótt (m/ sköttum)",
+    "photo": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=900&auto=format&fit=crop&q=80",
+    "url": "https://is.hotels.com/Hotel-Search?destination=CABINN%20Odense&startDate=2027-02-22&endDate=2027-02-23&adults=2",
+    "officialUrl": "https://www.cabinn.com/hotel/cabinn-odense-hotel",
+    "isBudgetFit": true,
+    "suggestedBy": "Hotels.com & Gemini",
+    "availableWeeks": [
+      "leg4",
+      "leg1"
+    ],
+    "availabilitySummary": "Leggur 4 (Mán 22. – Þri 23. feb, 1 nótt: ~11.500 kr. m/ sköttum) · Einfalt og ódýrt hótel í miðbæ Óðinsvéa ef aðeins vantar svefnstað fyrir heimferð.",
+    "pricesByWeek": {
+      "leg4": 11500,
+      "leg1": 23000
+    }
+  },
+  {
+    "id": "car_skoda_octavia_combi",
+    "title": "🚗 Skoda Octavia Combi / VW Passat Estate (Sixt / Europcar)",
+    "category": "car",
+    "legId": "car",
+    "isTopPick": true,
+    "propertyType": "Station / Estate · Kastrup (CPH) · 6 dagar",
+    "city": "Kastrup (CPH)",
+    "region": "🚗 Bílaleiga CPH · 17.–23. feb (6 dagar)",
+    "country": "Bílaleiga",
+    "address": "Lufthavnsboulevarden 2, 2770 Kastrup (Shuttle frá T3)",
+    "specs": [
+      "7.343 kr./dag (44.057 kr. alls)",
+      "Station / Estate (600–650L skott)",
+      "Fullkominn fyrir IKEA pakka & varning",
+      "Sixt / Europcar CPH"
+    ],
+    "rating": "4.8",
+    "ratingLabel": "Toppval fyrir langkeyrslu & IKEA varning",
+    "priceEur": 44057,
+    "pricePerNightEur": 7343,
+    "priceFormatted": "7.343 kr./dag (44.057 kr. 6 dagar)",
+    "photo": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=900&auto=format&fit=crop&q=80",
+    "url": "https://www.sixt.com/",
+    "officialUrl": "https://www.europcar.com/",
+    "isBudgetFit": true,
+    "suggestedBy": "Gemini Bílaleiga",
+    "availableWeeks": [
+      "car"
+    ],
+    "availabilitySummary": "CPH Kastrup (17.–23. feb, 6 dagar: 44.057 kr.) · Mjög stórt og djúpt skott (600–650L), auðvelt að fella niður aftursæti fyrir langa/flatpack pakka úr IKEA og lág eldsneytiseyðsla á hraðbrautum.",
+    "pricesByWeek": {
+      "car": 44057
+    }
+  },
+  {
+    "id": "car_ford_focus_estate",
+    "title": "🚗 Ford Focus Estate / Opel Astra Sports Tourer (Europcar)",
+    "category": "car",
+    "legId": "car",
+    "propertyType": "Station / Estate · Kastrup (CPH) · 6 dagar",
+    "city": "Kastrup (CPH)",
+    "region": "🚗 Bílaleiga CPH · 17.–23. feb (6 dagar)",
+    "country": "Bílaleiga",
+    "address": "CPH Car Rental Centre, Lufthavnsboulevarden 2",
+    "specs": [
+      "7.098 kr./dag (42.833 kr. alls)",
+      "Station / Estate",
+      "Hagkvæmasti skutbíllinn",
+      "Europcar CPH"
+    ],
+    "rating": "4.6",
+    "ratingLabel": "Hagkvæmur skutbíll með góðu skotti",
+    "priceEur": 42833,
+    "pricePerNightEur": 7098,
+    "priceFormatted": "7.098 kr./dag (42.833 kr. 6 dagar)",
+    "photo": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=900&auto=format&fit=crop&q=80",
+    "url": "https://www.europcar.com/",
+    "officialUrl": "https://www.europcar.com/",
+    "isBudgetFit": true,
+    "suggestedBy": "Gemini Bílaleiga",
+    "availableWeeks": [
+      "car"
+    ],
+    "availabilitySummary": "CPH Kastrup (17.–23. feb, 6 dagar: 42.833 kr.) · Ódýrasti station-bíllinn á Kastrup, rúmgott skott þegar aftursæti eru felld niður fyrir IKEA varning.",
+    "pricesByWeek": {
+      "car": 42833
+    }
+  },
+  {
+    "id": "car_vw_tiguan_qashqai",
+    "title": "🚙 Nissan Qashqai / Ford Kuga / VW Tiguan Hybrid (Hertz)",
+    "category": "car",
+    "legId": "car",
+    "isTopPick": true,
+    "propertyType": "SUV / Crossover · Kastrup (CPH) · 6 dagar",
+    "city": "Kastrup (CPH)",
+    "region": "🚗 Bílaleiga CPH · 17.–23. feb (6 dagar)",
+    "country": "Bílaleiga",
+    "address": "Hertz Car Rental Centre, Lufthavnsboulevarden 2",
+    "specs": [
+      "8.811 kr./dag (52.623 kr. alls)",
+      "SUV / Crossover (Há sætisstaða)",
+      "Þægilegt inn-/útstig & góð yfirsýn",
+      "Hertz CPH"
+    ],
+    "rating": "4.8",
+    "ratingLabel": "Þægilegasti ferðabíllinn í febrúarveðri",
+    "priceEur": 52623,
+    "pricePerNightEur": 8811,
+    "priceFormatted": "8.811 kr./dag (52.623 kr. 6 dagar)",
+    "photo": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=900&auto=format&fit=crop&q=80",
+    "url": "https://www.hertz.com/",
+    "officialUrl": "https://www.hertz.com/",
+    "isBudgetFit": true,
+    "suggestedBy": "Gemini Bílaleiga",
+    "availableWeeks": [
+      "car"
+    ],
+    "availabilitySummary": "CPH Kastrup (17.–23. feb, 6 dagar: 52.623 kr.) · Þægilegt að stíga inn og út, há sætisstaða, góð yfirsýn í akstri um Jótland og Fjón og rúmgott farangursrými.",
+    "pricesByWeek": {
+      "car": 52623
+    }
+  },
+  {
+    "id": "car_skoda_kodiaq_avis",
+    "title": "🚙 Skoda Kodiaq 7-Seater / VW Tiguan Allspace (Avis)",
+    "category": "car",
+    "legId": "car",
+    "propertyType": "Stór SUV / 7-sæta · Kastrup (CPH) · 6 dagar",
+    "city": "Kastrup (CPH)",
+    "region": "🚗 Bílaleiga CPH · 17.–23. feb (6 dagar)",
+    "country": "Bílaleiga",
+    "address": "Avis Car Rental Centre, Lufthavnsboulevarden 2",
+    "specs": [
+      "9.546 kr./dag (57.274 kr. alls)",
+      "Stór SUV (allt að 2.000L með sætum niðri)",
+      "Avis CPH",
+      "Frábær á dönskum hraðbrautum"
+    ],
+    "rating": "4.9",
+    "ratingLabel": "Stór jepplingur með risaskotti",
+    "priceEur": 57274,
+    "pricePerNightEur": 9546,
+    "priceFormatted": "9.546 kr./dag (57.274 kr. 6 dagar)",
+    "photo": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=900&auto=format&fit=crop&q=80",
+    "url": "https://www.avis.com/",
+    "officialUrl": "https://www.avis.com/",
+    "isBudgetFit": true,
+    "suggestedBy": "Gemini Bílaleiga",
+    "availableWeeks": [
+      "car"
+    ],
+    "availabilitySummary": "CPH Kastrup (17.–23. feb, 6 dagar: 57.274 kr.) · Stór SUV þar sem bæði 2. og 3. sætaröð leggjast flatar svo úr verður risavaxið flutningsrými fyrir varning.",
+    "pricesByWeek": {
+      "car": 57274
+    }
+  },
+  {
+    "id": "car_vw_touran_smax",
+    "title": "🚐 VW Touran / Ford S-Max (Budget)",
+    "category": "car",
+    "legId": "car",
+    "propertyType": "Minivan / Fjölnotabíll · Kastrup (CPH) · 6 dagar",
+    "city": "Kastrup (CPH)",
+    "region": "🚗 Bílaleiga CPH · 17.–23. feb (6 dagar)",
+    "country": "Bílaleiga",
+    "address": "Budget Car Rental Centre, Lufthavnsboulevarden 2",
+    "specs": [
+      "10.402 kr./dag (62.414 kr. alls)",
+      "Fjölnotabíll / MPV",
+      "Hámarkspláss fyrir IKEA flatpack kassa",
+      "Budget CPH"
+    ],
+    "rating": "4.7",
+    "ratingLabel": "Hátt til lofts og flatt gólf",
+    "priceEur": 62414,
+    "pricePerNightEur": 10402,
+    "priceFormatted": "10.402 kr./dag (62.414 kr. 6 dagar)",
+    "photo": "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?w=900&auto=format&fit=crop&q=80",
+    "url": "https://www.budget.com/",
+    "officialUrl": "https://www.budget.com/",
+    "isBudgetFit": false,
+    "suggestedBy": "Gemini Bílaleiga",
+    "availableWeeks": [
+      "car"
+    ],
+    "availabilitySummary": "CPH Kastrup (17.–23. feb, 6 dagar: 62.414 kr.) · Hámarkspláss fyrir flatpack kassa úr IKEA og mikinn farangur milli Óðinsvéa, Rípe og Álaborgar.",
+    "pricesByWeek": {
+      "car": 62414
+    }
+  },
+  {
+    "id": "car_vw_caddy_maxi_transit",
+    "title": "🚐 VW Caddy Maxi / Ford Transit Custom (Sixt)",
+    "category": "car",
+    "legId": "car",
+    "propertyType": "Stór Minivan / Sendibíll · Kastrup (CPH) · 6 dagar",
+    "city": "Kastrup (CPH)",
+    "region": "🚗 Bílaleiga CPH · 17.–23. feb (6 dagar)",
+    "country": "Bílaleiga",
+    "address": "Sixt Car Rental Centre, Lufthavnsboulevarden 2",
+    "specs": [
+      "11.993 kr./dag (71.959 kr. alls)",
+      "Stór Minivan / Caddy Maxi",
+      "Tekur stór húsgögn & kassa án vandræða",
+      "Sixt CPH"
+    ],
+    "rating": "4.6",
+    "ratingLabel": "Fyrir stærri búslóða-/IKEA flutninga",
+    "priceEur": 71959,
+    "pricePerNightEur": 11993,
+    "priceFormatted": "11.993 kr./dag (71.959 kr. 6 dagar)",
+    "photo": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?w=900&auto=format&fit=crop&q=80",
+    "url": "https://www.sixt.com/",
+    "officialUrl": "https://www.sixt.com/",
+    "isBudgetFit": false,
+    "suggestedBy": "Gemini Bílaleiga",
+    "availableWeeks": [
+      "car"
+    ],
+    "availabilitySummary": "CPH Kastrup (17.–23. feb, 6 dagar: 71.959 kr.) · Fyrir hámarks flutningsgetu ef keyptir eru margir stórir og langir kassar í IKEA.",
+    "pricesByWeek": {
+      "car": 71959
     }
   }
 ]
